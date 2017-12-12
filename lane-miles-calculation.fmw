@@ -9,51 +9,51 @@
 #          --sqlite3_where_clause ""
 #    
 #    
-#!   END_PYTHON=""
-#!   IGNORE_READER_FAILURE="No"
-#!   HISTORY=""
-#!   USE_MARKDOWN=""
-#!   DESTINATION="NONE"
-#!   EXPLICIT_BOOKMARK_ORDER="false"
-#!   DESTINATION_ROUTING_FILE=""
-#!   PYTHON_COMPATIBILITY="ArcGISDesktop"
-#!   MAX_LOG_FEATURES="200"
-#!   TITLE=""
-#!   SHOW_INFO_NODES="true"
-#!   ZOOM_SCALE="90"
+#!   DOC_TOP_LEFT="206.032 476"
 #!   MARKDOWN_DESCRIPTION=""
-#!   DESCRIPTION=""
-#!   FME_BUILD_NUM="17539"
-#!   BEGIN_TCL=""
-#!   MARKDOWN_USAGE=""
-#!   FME_STROKE_MAX_DEVIATION="0"
-#!   FME_REPROJECTION_ENGINE="FME"
-#!   LAST_SAVE_DATE="2017-12-11T15:20:18"
-#!   PASSWORD=""
-#!   FME_DOCUMENT_PRIORGUID="ff80bdf5-900b-41b3-867e-a060acc0a103,4da6d3b7-9fde-4ba7-b352-f261d3d917e9,9828c521-b3dc-4b9e-9073-aa6cb7e78f41,29ceccb5-8228-4cc9-94c5-da470250bf91,521b0427-5512-41fb-b404-0d8a64085a17,77049f2c-e06f-4bb7-a6e0-7c5cea4ca614,b0275872-5ce5-4053-a373-692e15dcb9bd,36ebe824-61cb-403a-ab20-4260b4a4d2bb,d84f097b-f8f4-4bee-9b04-204b7c22763a,0720c785-ffef-4f6c-80ec-c714e79ae762,f4c3a263-90ad-4015-9638-1120fbcbc486,2801f8a9-6c2d-4422-b260-df24532b4586,2a346c70-83cc-4f99-949c-8e4c5fd603f6,5710e8fc-8b19-4ce2-bd9c-aa8ea33838d6,3c913ee4-2f48-4d2b-aa92-aa06d5b0e731,a003a59c-c34e-4523-808e-cb4a4c1426d1,398bd86c-fbe3-428f-b98b-b96531792678,162cbf71-6c34-4b23-a7cc-78cedd45813e"
-#!   SHOW_ANNOTATIONS="true"
-#!   LOG_MAX_RECORDED_FEATURES="200"
-#!   FME_SERVER_SERVICES=""
-#!   FME_GEOMETRY_HANDLING="Enhanced"
-#!   BEGIN_PYTHON=""
-#!   REDIRECT_TERMINATORS="NONE"
-#!   LOG_FILE=""
-#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
-#!   FME_DOCUMENT_GUID="ecfa48ec-37aa-4c4c-b1c6-b8a2c042c9ec"
-#!   USAGE=""
-#!   LAST_SAVE_BUILD="FME(R) 2017.1.0.0 (20170731 - Build 17539 - WIN64)"
-#!   DOC_EXTENTS="7282.94 3035.77"
-#!   VIEW_POSITION="2691 3222.25"
-#!   TERMINATE_REJECTED="YES"
-#!   WORKSPACE_VERSION="1"
-#!   SOURCE_ROUTING_FILE=""
-#!   SOURCE="NONE"
-#!   ATTR_TYPE_ENCODING="SDF"
+#!   LAST_SAVE_DATE="2017-12-12T15:02:27"
 #!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#!   VIEW_POSITION="2138.91 3441.01"
+#!   SHOW_INFO_NODES="true"
 #!   WARN_INVALID_XFORM_PARAM="Yes"
-#!   DOC_TOP_LEFT="206.032 864.23"
-#!   CATEGORY=""
+#!   USE_MARKDOWN=""
+#!   LAST_SAVE_BUILD="FME(R) 2017.1.0.0 (20170731 - Build 17539 - WIN64)"
+#!   LOG_FILE=""
+#!   HISTORY=""
+#!   TERMINATE_REJECTED="YES"
+#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
+#!   ZOOM_SCALE="90"
+#!   BEGIN_PYTHON=""
+#!   USAGE=""
+#!   ATTR_TYPE_ENCODING="SDF"
+#!   DESCRIPTION=""
+#!   WORKSPACE_VERSION="1"
+#!   PASSWORD=""
+#!   PYTHON_COMPATIBILITY="ArcGISDesktop"
+#!   FME_DOCUMENT_PRIORGUID="ff80bdf5-900b-41b3-867e-a060acc0a103,4da6d3b7-9fde-4ba7-b352-f261d3d917e9,9828c521-b3dc-4b9e-9073-aa6cb7e78f41,29ceccb5-8228-4cc9-94c5-da470250bf91,521b0427-5512-41fb-b404-0d8a64085a17,77049f2c-e06f-4bb7-a6e0-7c5cea4ca614,b0275872-5ce5-4053-a373-692e15dcb9bd,36ebe824-61cb-403a-ab20-4260b4a4d2bb,d84f097b-f8f4-4bee-9b04-204b7c22763a,0720c785-ffef-4f6c-80ec-c714e79ae762,f4c3a263-90ad-4015-9638-1120fbcbc486,2801f8a9-6c2d-4422-b260-df24532b4586,2a346c70-83cc-4f99-949c-8e4c5fd603f6,5710e8fc-8b19-4ce2-bd9c-aa8ea33838d6,3c913ee4-2f48-4d2b-aa92-aa06d5b0e731,a003a59c-c34e-4523-808e-cb4a4c1426d1,398bd86c-fbe3-428f-b98b-b96531792678,162cbf71-6c34-4b23-a7cc-78cedd45813e,ecfa48ec-37aa-4c4c-b1c6-b8a2c042c9ec"
+#!   FME_SERVER_SERVICES=""
 #!   END_TCL=""
+#!   MAX_LOG_FEATURES="200"
+#!   IGNORE_READER_FAILURE="No"
+#!   FME_STROKE_MAX_DEVIATION="0"
+#!   TITLE=""
+#!   LOG_MAX_RECORDED_FEATURES="200"
+#!   SOURCE="NONE"
+#!   FME_DOCUMENT_GUID="6d971c97-6ad5-44e4-8460-670e612cd740"
+#!   DOC_EXTENTS="7282.94 3424"
+#!   MARKDOWN_USAGE=""
+#!   FME_REPROJECTION_ENGINE="FME"
+#!   FME_GEOMETRY_HANDLING="Enhanced"
+#!   DESTINATION_ROUTING_FILE=""
+#!   FME_BUILD_NUM="17539"
+#!   REDIRECT_TERMINATORS="NONE"
+#!   DESTINATION="NONE"
+#!   END_PYTHON=""
+#!   BEGIN_TCL=""
+#!   SHOW_ANNOTATIONS="true"
+#!   SOURCE_ROUTING_FILE=""
+#!   EXPLICIT_BOOKMARK_ORDER="false"
+#!   CATEGORY=""
 #! >
 #! <DATASETS>
 #! <DATASET
@@ -69,7 +69,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="sqlite3_sql_statement &quot;&quot; sqlite3_where_clause &quot;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_size float multi_reader_full_id integer fme_fill_color varchar(50) fme_sweep_angle float fme_text_string varchar(50) fme_start_angle float multi_reader_id integer fme_feature_type varchar(50) fme_geometry fme_char(50) fme_rotation float fme_primary_axis float fme_dataset varchar(50) multi_reader_keyword varchar(50) fme_color varchar(50) fme_type varchar(50) fme_secondary_axis float fme_basename varchar(50) multi_reader_type varchar(50) db_type varchar(254)"
+#!   EXPOSABLE_ATTRS="fme_geometry fme_char(50) fme_secondary_axis float multi_reader_keyword varchar(50) fme_rotation float db_type varchar(254) multi_reader_id integer fme_fill_color varchar(50) fme_text_size float fme_basename varchar(50) fme_sweep_angle float multi_reader_full_id integer fme_start_angle float fme_feature_type varchar(50) fme_type varchar(50) fme_text_string varchar(50) multi_reader_type varchar(50) fme_primary_axis float fme_dataset varchar(50) fme_color varchar(50)"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP sqlite3_reader_table_group sqlite3_where_clause%sqlite3_sql_statement Table&quot; &quot;&quot; &quot;GUI OPTIONAL TEXT sqlite3_where_clause WHERE Clause&quot; &quot;&quot; &quot;GUI OPTIONAL TEXT sqlite3_sql_statement SELECT Statement&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES="Indexed Unique"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -78,24 +78,16 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE="FILE"
 #!   GENERATE_FME_BUILD_NUM="17539"
-#!   MAX_FEATURES_PER_FEATURE_TYPE=""
 #!   START_FEATURE=""
-#!   MIN_FEATURES=""
-#!   FEATURE_TYPES=""
-#!   MAX_FEATURES=""
 #!   COORDSYS=""
+#!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   FEATURE_TYPES=""
+#!   MIN_FEATURES=""
+#!   MAX_FEATURES=""
 #! >
 #! <METAFILE_PARAMETER
 #!   NAME="FEATURE_TYPE_NAME"
 #!   VALUE="Table"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="ALLOW_DATASET_CONFLICT"
-#!   VALUE="YES"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
-#!   VALUE="Table1"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="READER_DATASET_HINT"
@@ -106,16 +98,24 @@
 #!   VALUE="sqlite file"
 #! />
 #! <METAFILE_PARAMETER
+#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
+#!   VALUE="Table1"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="ALLOW_DATASET_CONFLICT"
+#!   VALUE="YES"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="SUPPORTS_SCHEMA_IN_FEATURE_TYPE_NAME"
+#!   VALUE="NO"
+#! />
+#! <METAFILE_PARAMETER
 #!   NAME="ADVANCED_PARMS"
 #!   VALUE="SQLITE3_OUT_WRITER_MODE SQLITE3_OUT_TRANSACTION_INTERVAL SQLITE3_OUT_BEGIN_SQL{0} SQLITE3_OUT_END_SQL{0}"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="WRITER_DATASET_HINT"
 #!   VALUE="Specify a name for the SQLite3 Database file"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="SUPPORTS_SCHEMA_IN_FEATURE_TYPE_NAME"
-#!   VALUE="NO"
 #! />
 #! </DATASET>
 #! <DATASET
@@ -131,7 +131,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="xlsx_drop_sheet No xlsx_trunc_sheet No xlsx_sheet_order &quot;&quot; xlsx_freeze_end_row &quot;&quot; xlsx_names_are_positions No xlsx_field_names_out Yes xlsx_start_col &quot;&quot; xlsx_start_row &quot;&quot; xlsx_offset_col &quot;&quot; xlsx_offset_row &quot;&quot; xlsx_raster_type PNG xlsx_table_writer_mode Insert xlsx_row_id_column &quot;&quot; xlsx_protect_sheet &quot;NO&quot; xlsx_protect_sheet_level &quot;&lt;Unused&gt;&quot; xlsx_protect_sheet_password &quot;&lt;Unused&gt;&quot; xlsx_protect_sheet_permissions &quot;&lt;Unused&gt;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_size number(width,xlsx_col_props) xlsx_raster_height number(width,xlsx_col_props) xlsx_raster_width number(width,xlsx_col_props) fme_fill_color string(50) xlsx_col_id number(width,xlsx_col_props) xlsx_raster_scale_factor number(width,xlsx_col_props) fme_sweep_angle number(width,xlsx_col_props) fme_db_operation string(width,xlsx_col_props) fme_text_string string(50) fme_start_angle number(width,xlsx_col_props) fme_feature_type string(50) fme_geometry fme_char(50) fme_rotation number(width,xlsx_col_props) fme_primary_axis number(width,xlsx_col_props) fme_dataset string(50) xlsx_row_id number(width,xlsx_col_props) fme_color string(50) fme_type string(50) fme_secondary_axis number(width,xlsx_col_props) fme_basename string(50)"
+#!   EXPOSABLE_ATTRS="fme_geometry fme_char(50) fme_db_operation string(width,xlsx_col_props) xlsx_row_id number(width,xlsx_col_props) fme_secondary_axis number(width,xlsx_col_props) fme_rotation number(width,xlsx_col_props) xlsx_raster_width number(width,xlsx_col_props) fme_fill_color string(50) fme_text_size number(width,xlsx_col_props) fme_basename string(50) xlsx_raster_scale_factor number(width,xlsx_col_props) fme_sweep_angle number(width,xlsx_col_props) xlsx_col_id number(width,xlsx_col_props) xlsx_raster_height number(width,xlsx_col_props) fme_start_angle number(width,xlsx_col_props) fme_feature_type string(50) fme_type string(50) fme_text_string string(50) fme_primary_axis number(width,xlsx_col_props) fme_dataset string(50) fme_color string(50)"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP xlsx_layer_group xlsx_table_writer_mode%xlsx_field_names_out%xlsx_names_are_positions%xlsx_row_id_column%xlsx_truncate_group%xlsx_table_group%xlsx_rowcolumn_group%xlsx_protect_sheet%xlsx_advanced_group Sheet Settings&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP xlsx_truncate_group xlsx_row_id%xlsx_drop_sheet%xlsx_trunc_sheet Drop/Truncate&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP xlsx_rowcolumn_group xlsx_start_col%xlsx_start_row%xlsx_offset_col%xlsx_offset_row Start Position&quot; &quot;&quot; &quot;GUI ACTIVEDISCLOSUREGROUP xlsx_protect_sheet xlsx_protect_sheet_password%xlsx_protect_sheet_level%xlsx_protect_sheet_permissions Protect Sheet&quot; NO &quot;GUI OPTIONAL DISCLOSUREGROUP xlsx_advanced_group xlsx_sheet_order%xlsx_freeze_end_row%xlsx_raster_type Advanced&quot; &quot;&quot; &quot;GUI CHOICE xlsx_drop_sheet Yes%No Drop Existing Sheet/Named Range:&quot; No &quot;GUI CHOICE xlsx_trunc_sheet Yes%No Truncate Existing Sheet/Named Range:&quot; No &quot;GUI OPTIONAL INTEGER xlsx_sheet_order Sheet Order (1 - n):&quot; &quot;&quot; &quot;GUI OPTIONAL INTEGER xlsx_freeze_end_row Freeze First Row(s) (1 - n):&quot; &quot;&quot; &quot;GUI CHOICE xlsx_field_names_out Yes%No Output Field Names:&quot; Yes &quot;GUI CHOICE xlsx_names_are_positions Yes%No Use Attribute Names As Column Positions:&quot; No &quot;GUI OPTIONAL TEXT xlsx_start_col Named Range Start Column:&quot; &quot;&quot; &quot;GUI OPTIONAL INTEGER xlsx_start_row Named Range Start Row:&quot; &quot;&quot; &quot;GUI OPTIONAL TEXT xlsx_offset_col Start Column:&quot; &quot;&quot; &quot;GUI OPTIONAL INTEGER xlsx_offset_row Start Row:&quot; &quot;&quot; &quot;GUI CHOICE xlsx_raster_type BMP%JPEG%PNG Raster Format:&quot; PNG &quot;GUI OPTIONAL PASSWORD_ENCODED xlsx_protect_sheet_password Password:&quot; &lt;Unused&gt; &quot;GUI ACTIVECHOICE_LOOKUP xlsx_protect_sheet_level Select&lt;space&gt;Only&lt;space&gt;Permissions,PROT_DEFAULT,xlsx_protect_sheet_permissions%View&lt;space&gt;Only&lt;space&gt;Permissions,PROT_ALL,xlsx_protect_sheet_permissions%Specific&lt;space&gt;Permissions Protection Level:&quot; &lt;Unused&gt; &quot;GUI OPTIONAL LOOKUP_LISTBOX xlsx_protect_sheet_permissions Select&lt;space&gt;locked&lt;space&gt;cells,PROT_SEL_LOCKED_CELLS%Select&lt;space&gt;unlocked&lt;space&gt;cells,PROT_SEL_UNLOCKED_CELLS%Format&lt;space&gt;cells,PROT_FORMAT_CELLS%Format&lt;space&gt;columns,PROT_FORMAT_COLUMNS%Format&lt;space&gt;rows,PROT_FORMAT_ROWS%Insert&lt;space&gt;columns,PROT_INSERT_COLUMNS%Insert&lt;space&gt;rows,PROT_INSERT_ROWS%Add&lt;space&gt;hyperlinks&lt;space&gt;to&lt;space&gt;unlocked&lt;space&gt;cells,PROT_INSERT_HYPERLINKS%Delete&lt;space&gt;unlocked&lt;space&gt;columns,PROT_DELETE_COLUMNS%Delete&lt;space&gt;unlocked&lt;space&gt;rows,PROT_DELETE_ROWS%Sort&lt;space&gt;unlocked&lt;space&gt;cells/rows/columns\,PROT_SORT%Use&lt;space&gt;Autofilter&lt;space&gt;on&lt;space&gt;unlocked&lt;space&gt;cells,PROT_AUTOFILTER%Use&lt;space&gt;PivotTable&lt;space&gt;&amp;&lt;space&gt;PivotChart&lt;space&gt;on&lt;space&gt;unlocked&lt;space&gt;cells,PROT_PIVOTTABLES%Edit&lt;space&gt;unlocked&lt;space&gt;objects,PROT_OBJECTS%Edit&lt;space&gt;unprotected&lt;space&gt;scenarios,PROT_SCENARIOS Specific Permissions:&quot; &lt;Unused&gt; &quot;GUI ACTIVECHOICE xlsx_table_writer_mode Insert,+xlsx_row_id_column+%Update,+xlsx_row_id_column+xlsx_row_id%Delete,+xlsx_row_id_column+xlsx_row_id Writer Mode:&quot; Insert &quot;GUI OPTIONAL ATTR xlsx_row_id_column ALLOW_NEW Row Number Attribute:&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS="\\&quot;*{}$"
@@ -145,32 +145,24 @@
 #!   COORDSYS=""
 #! >
 #! <METAFILE_PARAMETER
-#!   NAME="DEFAULT_ATTR_TYPE"
-#!   VALUE="auto"
-#! />
-#! <METAFILE_PARAMETER
 #!   NAME="FEATURE_TYPE_NAME"
 #!   VALUE="Sheet"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="ALLOW_DATASET_CONFLICT"
-#!   VALUE="YES"
+#!   NAME="DATASET_NAME"
+#!   VALUE="xlsx file"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
-#!   VALUE="Sheet1"
+#!   NAME="DEFAULT_ATTR_TYPE"
+#!   VALUE="auto"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="MIME_TYPE"
 #!   VALUE="application/vnd.ms-excel ADD_DISPOSITION"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="DEFAULT_READER"
-#!   VALUE="XLSXR"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="DATASET_NAME"
-#!   VALUE="xlsx file"
+#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
+#!   VALUE="Sheet1"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="USER_ATTRIBUTES_COLUMNS"
@@ -179,6 +171,14 @@
 #! <METAFILE_PARAMETER
 #!   NAME="ATTRIBUTE_READING"
 #!   VALUE="DEFLINE"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="ALLOW_DATASET_CONFLICT"
+#!   VALUE="YES"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="DEFAULT_READER"
+#!   VALUE="XLSXR"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="WRITER_DATASET_HINT"
@@ -702,9 +702,9 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="LENGTH" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="LANE_MILES" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="HALF_LANE_MILES" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="sqlite3_reader_table_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="sqlite3_where_clause" PARM_VALUE="$(sqlite3_where_clause)"/>
 #!     <DEFLINE_PARM PARM_NAME="sqlite3_sql_statement" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="sqlite3_reader_table_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="true"
@@ -730,16 +730,16 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="CORPORATION_NAME" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="FIPS_CODE" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="POPULATION" ATTR_TYPE="float" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="sqlite3_reader_table_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="sqlite3_where_clause" PARM_VALUE="FIPS_CODE IS NOT NULL AND POPULATION IS NOT NULL"/>
 #!     <DEFLINE_PARM PARM_NAME="sqlite3_sql_statement" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="sqlite3_reader_table_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
 #!   NODE_NAME="Jurisdiction"
 #!   FEATURE_TYPE_NAME=""
 #!   FEATURE_TYPE_NAME_QUALIFIER=""
-#!   IS_EDITABLE="false"
+#!   IS_EDITABLE="true"
 #!   IDENTIFIER="127"
 #!   FEAT_GEOMTYPE="All"
 #!   POSITION="6772.24 2741.5"
@@ -749,75 +749,34 @@
 #!   KEYWORD="XLSXW_1"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
-#!   SCHEMA_ATTRIBUTE_SOURCE="0"
+#!   SCHEMA_ATTRIBUTE_SOURCE="1"
 #! >
 #!     <FEAT_ATTRIBUTE ATTR_NAME="County" ATTR_TYPE="auto(20,version;1;number_format_string;;font;;font_color;;background_color;;pattern_color;;pattern_style;;text_alignment;NO;horizontal_alignment;;vertical_alignment;;indent;;text_orientation;;text_control;;cell_protection;NO;hide_cells;;lock_cells;)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="Jurisdiction" ATTR_TYPE="auto(20,version;1;number_format_string;;font;;font_color;;background_color;;pattern_color;;pattern_style;;text_alignment;NO;horizontal_alignment;;vertical_alignment;;indent;;text_orientation;;text_control;;cell_protection;NO;hide_cells;;lock_cells;)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="Name" ATTR_TYPE="auto(20,version;1;number_format_string;;font;;font_color;;background_color;;pattern_color;;pattern_style;;text_alignment;NO;horizontal_alignment;;vertical_alignment;;indent;;text_orientation;;text_control;;cell_protection;NO;hide_cells;;lock_cells;)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="LANE_MILES" ATTR_TYPE="string(20,version;1;number_format_string;;font;;font_color;;background_color;;pattern_color;;pattern_style;;text_alignment;NO;horizontal_alignment;;vertical_alignment;;indent;;text_orientation;;text_control;;cell_protection;NO;hide_cells;;lock_cells;)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="Centerline mileages" ATTR_TYPE="auto(20,version;1;number_format_string;;font;;font_color;;background_color;;pattern_color;;pattern_style;;text_alignment;NO;horizontal_alignment;;vertical_alignment;;indent;;text_orientation;;text_control;;cell_protection;NO;hide_cells;;lock_cells;)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_table_writer_mode" PARM_VALUE="Insert"/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_field_names_out" PARM_VALUE="Yes"/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_layer_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_protect_sheet" PARM_VALUE="NO"/>
 #!     <DEFLINE_PARM PARM_NAME="xlsx_row_id_column" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_start_col" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_start_row" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_raster_type" PARM_VALUE="PNG"/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_sheet_order" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_rowcolumn_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_protect_sheet_permissions" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_table_writer_mode" PARM_VALUE="Insert"/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_names_are_positions" PARM_VALUE="No"/>
 #!     <DEFLINE_PARM PARM_NAME="xlsx_trunc_sheet" PARM_VALUE="Yes"/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_truncate_group" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_offset_col" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_freeze_end_row" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="xlsx_start_col" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="xlsx_drop_sheet" PARM_VALUE="Yes"/>
 #!     <DEFLINE_PARM PARM_NAME="xlsx_protect_sheet_level" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_truncate_group" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_protect_sheet_permissions" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_raster_type" PARM_VALUE="PNG"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_start_row" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="xlsx_advanced_group" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_protect_sheet_password" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_layer_group" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_sheet_order" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_offset_col" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_names_are_positions" PARM_VALUE="No"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_freeze_end_row" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_protect_sheet" PARM_VALUE="NO"/>
 #!     <DEFLINE_PARM PARM_NAME="xlsx_offset_row" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_field_names_out" PARM_VALUE="Yes"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_rowcolumn_group" PARM_VALUE=""/>
-#! </FEATURE_TYPE>
-#! <FEATURE_TYPE
-#!   IS_SOURCE="false"
-#!   NODE_NAME="ODOT-IR"
-#!   FEATURE_TYPE_NAME=""
-#!   FEATURE_TYPE_NAME_QUALIFIER=""
-#!   IS_EDITABLE="false"
-#!   IDENTIFIER="129"
-#!   FEAT_GEOMTYPE="All"
-#!   POSITION="6846.88 2300.01"
-#!   BOUNDING_RECT="6846.88 2300.01 520.916 71"
-#!   ORDER="5e+14"
-#!   COLLAPSED="false"
-#!   KEYWORD="XLSXW_1"
-#!   PARMS_EDITED="false"
-#!   ENABLED="true"
-#!   SCHEMA_ATTRIBUTE_SOURCE="0"
-#! >
-#!     <FEAT_ATTRIBUTE ATTR_NAME="LANE_MILES.sum" ATTR_TYPE="auto(20,version;1;number_format_string;;font;;font_color;;background_color;;pattern_color;;pattern_style;;text_alignment;NO;horizontal_alignment;;vertical_alignment;;indent;;text_orientation;;text_control;;cell_protection;NO;hide_cells;;lock_cells;)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="Centerline mileages.sum" ATTR_TYPE="auto(20,version;1;number_format_string;;font;;font_color;;background_color;;pattern_color;;pattern_style;;text_alignment;NO;horizontal_alignment;;vertical_alignment;;indent;;text_orientation;;text_control;;cell_protection;NO;hide_cells;;lock_cells;)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_table_writer_mode" PARM_VALUE="Insert"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_row_id_column" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_start_col" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_trunc_sheet" PARM_VALUE="Yes"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_drop_sheet" PARM_VALUE="Yes"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_protect_sheet_level" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_truncate_group" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_protect_sheet_permissions" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_raster_type" PARM_VALUE="PNG"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_start_row" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_advanced_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="xlsx_protect_sheet_password" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_layer_group" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_sheet_order" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_offset_col" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_names_are_positions" PARM_VALUE="No"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_freeze_end_row" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_protect_sheet" PARM_VALUE="NO"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_offset_row" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_field_names_out" PARM_VALUE="Yes"/>
-#!     <DEFLINE_PARM PARM_NAME="xlsx_rowcolumn_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! </FEATURE_TYPES>
 #! <FMESERVER>
@@ -920,36 +879,6 @@
 #!   COMMENT_TYPE="REGULAR"
 #!   ANCHORED_NODE="53"
 #! />
-#! <COMMENT
-#!   IDENTIFIER="183"
-#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;TWP_CODE_LEFT&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
-#!   POSITION="2250 1885.44"
-#!   TOP_LEFT="2250 1885.44"
-#!   BOTTOM_RIGHT="2249 1886.44"
-#!   BOUNDING_RECT="2250 1885.44 -1 -1"
-#!   ORDER="5e+14"
-#!   FOLLOW_ANCHOR="true"
-#!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.192157"
-#!   SIZE_POLICY="8"
-#!   COMMENT_TYPE="REGULAR"
-#!   ANCHORED_NODE="0"
-#! />
-#! <COMMENT
-#!   IDENTIFIER="184"
-#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;TWP_CODE_RIGHT&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
-#!   POSITION="2250 1565.99"
-#!   TOP_LEFT="2250 1565.99"
-#!   BOTTOM_RIGHT="2249 1566.99"
-#!   BOUNDING_RECT="2250 1565.99 -1 -1"
-#!   ORDER="5e+14"
-#!   FOLLOW_ANCHOR="true"
-#!   INFO_NODE="false"
-#!   COLOUR="1,1,0.784314,0.192157"
-#!   SIZE_POLICY="8"
-#!   COMMENT_TYPE="REGULAR"
-#!   ANCHORED_NODE="0"
-#! />
 #! </COMMENTS>
 #! <CONSTANTS>
 #! </CONSTANTS>
@@ -963,7 +892,7 @@
 #!   BOUNDING_RECT="1500 3900 5876.62 906.143"
 #!   STICKY="true"
 #!   COLOUR="0.0901961,0.411765,0.682353"
-#!   CONTENTS="121 10 103 111 130 21 3 7 180 123 124 178 118 147 29 116 18 158 23 113 112 24 166 8 16 25 110 5 14 181 9 28 19 117 132 20 26 109 "
+#!   CONTENTS="118 7 121 25 111 113 117 24 109 9 8 130 19 166 16 29 18 26 123 103 116 3 14 28 23 147 158 178 5 181 21 124 10 112 132 180 110 20 "
 #! />
 #! <BOOKMARK
 #!   IDENTIFIER="70"
@@ -974,18 +903,18 @@
 #!   BOUNDING_RECT="1500 2850 4055.61 751.214"
 #!   STICKY="true"
 #!   COLOUR="0.0901961,0.411765,0.682353"
-#!   CONTENTS="61 56 66 128 106 67 105 68 62 146 69 142 179 64 59 63 60 54 55 53 157 57 65 153 182 58 "
+#!   CONTENTS="64 106 58 61 65 182 66 53 57 56 62 68 67 60 153 146 54 63 55 105 179 128 142 59 157 69 "
 #! />
 #! <BOOKMARK
 #!   IDENTIFIER="91"
 #!   NAME="ODOT"
 #!   DESCRIPTION="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   TOP_LEFT="1500 1950"
-#!   BOTTOM_RIGHT="5698.36 864.23"
-#!   BOUNDING_RECT="1500 1950 4198.36 1085.77"
+#!   BOTTOM_RIGHT="5698.36 1211.82"
+#!   BOUNDING_RECT="1500 1950 4198.36 738.182"
 #!   STICKY="true"
 #!   COLOUR="0.0901961,0.411765,0.682353"
-#!   CONTENTS="152 125 79 144 88 120 141 139 80 140 143 137 162 150 119 122 108 183 136 161 126 133 81 145 92 149 174 134 164 184 135 "
+#!   CONTENTS="143 120 164 88 79 80 119 126 122 108 150 135 136 92 152 162 133 125 81 149 134 161 "
 #! />
 #! <BOOKMARK
 #!   IDENTIFIER="173"
@@ -996,7 +925,18 @@
 #!   BOUNDING_RECT="5700 2850 1788.97 751.214"
 #!   STICKY="true"
 #!   COLOUR="0.427451,0.376471,0.94902"
-#!   CONTENTS="176 154 159 160 155 171 129 170 175 151 168 165 127 167 "
+#!   CONTENTS="159 175 154 155 170 188 151 160 189 129 171 127 167 168 165 "
+#! />
+#! <BOOKMARK
+#!   IDENTIFIER="131"
+#!   NAME="IR"
+#!   DESCRIPTION="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   TOP_LEFT="1508 1042"
+#!   BOTTOM_RIGHT="4496.57 476"
+#!   BOUNDING_RECT="1508 1042 2988.57 566"
+#!   STICKY="true"
+#!   COLOUR="0.458824,0.258824,0.184314"
+#!   CONTENTS="139 176 141 145 174 144 137 140 177 "
 #! />
 #! </BOOKMARKS>
 #! <TRANSFORMERS>
@@ -1059,13 +999,13 @@
 #!     <XFORM_ATTR ATTR_NAME="LENGTH" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester"/>
-#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
-#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &lt;at&gt;Value&lt;openparen&gt;MUNI_CODE_LEFT&lt;closeparen&gt; ATTRIBUTE_HAS_VALUE &quot;&quot;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester"/>
+#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="5"
@@ -1126,13 +1066,13 @@
 #!     <XFORM_ATTR ATTR_NAME="LENGTH" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_2"/>
-#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
-#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &lt;at&gt;Value&lt;openparen&gt;MUNI_CODE_RIGHT&lt;closeparen&gt; ATTRIBUTE_HAS_VALUE &quot;&quot;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_2"/>
+#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="7"
@@ -1169,16 +1109,16 @@
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="ROUTEID ROUTEID  NO_OP FROMMEASURE FROMMEASURE  NO_OP TOMEASURE TOMEASURE  NO_OP COUNTY_CODE_LEFT COUNTY_CODE_LEFT  NO_OP COUNTY_CODE_RIGHT COUNTY_CODE_RIGHT  NO_OP COUNTY_SPLIT_INDICATOR COUNTY_SPLIT_INDICATOR  NO_OP JURISDICTION JURISDICTION  NO_OP MILEAGE_CLASS MILEAGE_CLASS  NO_OP MUNI_CODE_LEFT MUNI  RENAME_SET_VALUE MUNI_CODE_RIGHT MUNI_CODE_RIGHT  REMOVE OVERLAP_INDICATOR OVERLAP_INDICATOR  NO_OP ROADWAY_CLASS ROADWAY_CLASS  NO_OP STATE_CODE_LEFT STATE_CODE_LEFT  NO_OP STATE_CODE_RIGHT STATE_CODE_RIGHT  NO_OP TAG_REVENUE_ELIGIBLE TAG_REVENUE_ELIGIBLE  NO_OP TWP_CODE_LEFT TWP_CODE_LEFT  NO_OP TWP_CODE_RIGHT TWP_CODE_RIGHT  NO_OP LANES_NBR LANES_NBR  NO_OP ROUTE_TYPE ROUTE_TYPE  NO_OP LENGTH LENGTH  NO_OP LANE_MILES LANE_MILES  NO_OP HALF_LANE_MILES HALF_LANE_MILES  NO_OP  Half_centerline&lt;space&gt;mileages &lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;abs&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;FROMMEASURE&lt;closeparen&gt;-&lt;at&gt;Value&lt;openparen&gt;TOMEASURE&lt;closeparen&gt;&lt;closeparen&gt;&lt;solidus&gt;2&lt;closeparen&gt; SET_TO"/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeManager"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="ROUTEID ROUTEID  NO_OP FROMMEASURE FROMMEASURE  NO_OP TOMEASURE TOMEASURE  NO_OP COUNTY_CODE_LEFT COUNTY_CODE_LEFT  NO_OP COUNTY_CODE_RIGHT COUNTY_CODE_RIGHT  NO_OP COUNTY_SPLIT_INDICATOR COUNTY_SPLIT_INDICATOR  NO_OP JURISDICTION JURISDICTION  NO_OP MILEAGE_CLASS MILEAGE_CLASS  NO_OP MUNI_CODE_LEFT MUNI  RENAME_SET_VALUE MUNI_CODE_RIGHT MUNI_CODE_RIGHT  REMOVE OVERLAP_INDICATOR OVERLAP_INDICATOR  NO_OP ROADWAY_CLASS ROADWAY_CLASS  NO_OP STATE_CODE_LEFT STATE_CODE_LEFT  NO_OP STATE_CODE_RIGHT STATE_CODE_RIGHT  NO_OP TAG_REVENUE_ELIGIBLE TAG_REVENUE_ELIGIBLE  NO_OP TWP_CODE_LEFT TWP_CODE_LEFT  NO_OP TWP_CODE_RIGHT TWP_CODE_RIGHT  NO_OP LANES_NBR LANES_NBR  NO_OP ROUTE_TYPE ROUTE_TYPE  NO_OP LENGTH LENGTH  NO_OP LANE_MILES LANE_MILES  NO_OP HALF_LANE_MILES HALF_LANE_MILES  NO_OP  Half_centerline&lt;space&gt;mileages &lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;abs&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;FROMMEASURE&lt;closeparen&gt;-&lt;at&gt;Value&lt;openparen&gt;TOMEASURE&lt;closeparen&gt;&lt;closeparen&gt;&lt;solidus&gt;2&lt;closeparen&gt; SET_TO"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="9"
@@ -1215,16 +1155,16 @@
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="ROUTEID ROUTEID  NO_OP FROMMEASURE FROMMEASURE  NO_OP TOMEASURE TOMEASURE  NO_OP COUNTY_CODE_LEFT COUNTY_CODE_LEFT  NO_OP COUNTY_CODE_RIGHT COUNTY_CODE_RIGHT  NO_OP COUNTY_SPLIT_INDICATOR COUNTY_SPLIT_INDICATOR  NO_OP JURISDICTION JURISDICTION  NO_OP MILEAGE_CLASS MILEAGE_CLASS  NO_OP MUNI_CODE_LEFT MUNI_CODE_LEFT  REMOVE MUNI_CODE_RIGHT MUNI  RENAME_SET_VALUE OVERLAP_INDICATOR OVERLAP_INDICATOR  NO_OP ROADWAY_CLASS ROADWAY_CLASS  NO_OP STATE_CODE_LEFT STATE_CODE_LEFT  NO_OP STATE_CODE_RIGHT STATE_CODE_RIGHT  NO_OP TAG_REVENUE_ELIGIBLE TAG_REVENUE_ELIGIBLE  NO_OP TWP_CODE_LEFT TWP_CODE_LEFT  NO_OP TWP_CODE_RIGHT TWP_CODE_RIGHT  NO_OP LANES_NBR LANES_NBR  NO_OP ROUTE_TYPE ROUTE_TYPE  NO_OP LENGTH LENGTH  NO_OP LANE_MILES LANE_MILES  NO_OP HALF_LANE_MILES HALF_LANE_MILES  NO_OP  Half_centerline&lt;space&gt;mileages &lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;abs&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;FROMMEASURE&lt;closeparen&gt;-&lt;at&gt;Value&lt;openparen&gt;TOMEASURE&lt;closeparen&gt;&lt;closeparen&gt;&lt;solidus&gt;2&lt;closeparen&gt; SET_TO"/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeManager_2"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="ROUTEID ROUTEID  NO_OP FROMMEASURE FROMMEASURE  NO_OP TOMEASURE TOMEASURE  NO_OP COUNTY_CODE_LEFT COUNTY_CODE_LEFT  NO_OP COUNTY_CODE_RIGHT COUNTY_CODE_RIGHT  NO_OP COUNTY_SPLIT_INDICATOR COUNTY_SPLIT_INDICATOR  NO_OP JURISDICTION JURISDICTION  NO_OP MILEAGE_CLASS MILEAGE_CLASS  NO_OP MUNI_CODE_LEFT MUNI_CODE_LEFT  REMOVE MUNI_CODE_RIGHT MUNI  RENAME_SET_VALUE OVERLAP_INDICATOR OVERLAP_INDICATOR  NO_OP ROADWAY_CLASS ROADWAY_CLASS  NO_OP STATE_CODE_LEFT STATE_CODE_LEFT  NO_OP STATE_CODE_RIGHT STATE_CODE_RIGHT  NO_OP TAG_REVENUE_ELIGIBLE TAG_REVENUE_ELIGIBLE  NO_OP TWP_CODE_LEFT TWP_CODE_LEFT  NO_OP TWP_CODE_RIGHT TWP_CODE_RIGHT  NO_OP LANES_NBR LANES_NBR  NO_OP ROUTE_TYPE ROUTE_TYPE  NO_OP LENGTH LENGTH  NO_OP LANE_MILES LANE_MILES  NO_OP HALF_LANE_MILES HALF_LANE_MILES  NO_OP  Half_centerline&lt;space&gt;mileages &lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;abs&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;FROMMEASURE&lt;closeparen&gt;-&lt;at&gt;Value&lt;openparen&gt;TOMEASURE&lt;closeparen&gt;&lt;closeparen&gt;&lt;solidus&gt;2&lt;closeparen&gt; SET_TO"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="14"
@@ -1242,34 +1182,34 @@
 #!     <XFORM_ATTR ATTR_NAME="MUNI" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="ATTR_TO_TRAIT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="Geometry - Assemble One Level"/>
+#!     <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CONCAT_ATTRS" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="COUNT_ATTR" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="Geometry - Assemble One Level"/>
+#!     <XFORM_PARM PARM_NAME="ID_SELECTION" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ORDERED" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="PRESERVE_ID" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SEP" PARM_VALUE="&lt;comma&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SUM" PARM_VALUE="HALF_LANE_MILES &quot;Half_centerline mileages&quot;"/>
+#!     <XFORM_PARM PARM_NAME="WEIGHT" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE_MODE" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ACCUM_ATTRS_NAME" PARM_VALUE="Use Attributes From One Feature"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TO_TRAIT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ASSEMBLE_ONE_LEVEL_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="AGGREGATE_TYPE" PARM_VALUE="Homogeneous Collection (If Possible)"/>
+#!     <XFORM_PARM PARM_NAME="PARENT_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Aggregator"/>
 #!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="MUNI"/>
 #!     <XFORM_PARM PARM_NAME="ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="CHILD_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="SEP" PARM_VALUE="&lt;comma&gt;"/>
-#!     <XFORM_PARM PARM_NAME="WEIGHT" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="AGGREGATE_TYPE" PARM_VALUE="Homogeneous Collection (If Possible)"/>
-#!     <XFORM_PARM PARM_NAME="ID_SELECTION" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="AV" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Aggregator"/>
-#!     <XFORM_PARM PARM_NAME="PARENT_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="CONCAT_ATTRS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ASSEMBLE_ONE_LEVEL_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
-#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="ORDERED" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PRESERVE_ID" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE_MODE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ASSEMBLE_HIERARCHY_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
-#!     <XFORM_PARM PARM_NAME="SUM" PARM_VALUE="HALF_LANE_MILES &quot;Half_centerline mileages&quot;"/>
+#!     <XFORM_PARM PARM_NAME="AV" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CHILD_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="18"
@@ -1287,9 +1227,9 @@
 #!     <XFORM_ATTR ATTR_NAME="MUNI" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="HALF_LANE_MILES,MUNI,Half_centerline&lt;space&gt;mileages"/>
 #! </TRANSFORMER>
@@ -1316,11 +1256,11 @@
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_PARM PARM_NAME="PLACES" PARM_VALUE="3"/>
+#!     <XFORM_PARM PARM_NAME="ROUND_TYPE" PARM_VALUE="Nearest"/>
+#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="HALF_LANE_MILES Half_centerline&lt;space&gt;mileages"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRounder"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="HALF_LANE_MILES Half_centerline&lt;space&gt;mileages"/>
-#!     <XFORM_PARM PARM_NAME="ROUND_TYPE" PARM_VALUE="Nearest"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="25"
@@ -1339,14 +1279,14 @@
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_list{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="TRIM_OPTION" PARM_VALUE="Both"/>
+#!     <XFORM_PARM PARM_NAME="DELIMITER" PARM_VALUE="-"/>
+#!     <XFORM_PARM PARM_NAME="DROP_EMPTY_PARTS" PARM_VALUE="No"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeSplitter"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="DROP_EMPTY_PARTS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="MUNI"/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_list"/>
-#!     <XFORM_PARM PARM_NAME="DELIMITER" PARM_VALUE="-"/>
+#!     <XFORM_PARM PARM_NAME="TRIM_OPTION" PARM_VALUE="Both"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="MUNI"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="26"
@@ -1367,16 +1307,16 @@
 #!     <XFORM_ATTR ATTR_NAME="FIPS" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="&quot;&quot; County &lt;at&gt;Value&lt;openparen&gt;_list&lt;opencurly&gt;0&lt;closecurly&gt;&lt;closeparen&gt; SET_TO MUNI MUNI &lt;at&gt;Value&lt;openparen&gt;_list&lt;opencurly&gt;1&lt;closecurly&gt;&lt;closeparen&gt; SET_TO _list&lt;opencurly&gt;&lt;closecurly&gt; _list&lt;opencurly&gt;&lt;closecurly&gt;  NO_OP  FIPS &lt;at&gt;Value&lt;openparen&gt;_list&lt;opencurly&gt;2&lt;closecurly&gt;&lt;closeparen&gt; SET_TO HALF_LANE_MILES LANE_MILES  RENAME_SET_VALUE Half_centerline&lt;space&gt;mileages Centerline&lt;space&gt;mileages  RENAME_SET_VALUE"/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeManager_3"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="&quot;&quot; County &lt;at&gt;Value&lt;openparen&gt;_list&lt;opencurly&gt;0&lt;closecurly&gt;&lt;closeparen&gt; SET_TO MUNI MUNI &lt;at&gt;Value&lt;openparen&gt;_list&lt;opencurly&gt;1&lt;closecurly&gt;&lt;closeparen&gt; SET_TO _list&lt;opencurly&gt;&lt;closecurly&gt; _list&lt;opencurly&gt;&lt;closecurly&gt;  NO_OP  FIPS &lt;at&gt;Value&lt;openparen&gt;_list&lt;opencurly&gt;2&lt;closecurly&gt;&lt;closeparen&gt; SET_TO HALF_LANE_MILES LANE_MILES  RENAME_SET_VALUE Half_centerline&lt;space&gt;mileages Centerline&lt;space&gt;mileages  RENAME_SET_VALUE"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="53"
@@ -1437,13 +1377,13 @@
 #!     <XFORM_ATTR ATTR_NAME="LENGTH" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_5"/>
-#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
-#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &lt;at&gt;Value&lt;openparen&gt;TWP_CODE_LEFT&lt;closeparen&gt; ATTRIBUTE_HAS_VALUE &quot;&quot;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_5"/>
+#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="54"
@@ -1504,13 +1444,13 @@
 #!     <XFORM_ATTR ATTR_NAME="LENGTH" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_6"/>
-#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
-#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &lt;at&gt;Value&lt;openparen&gt;TWP_CODE_RIGHT&lt;closeparen&gt; ATTRIBUTE_HAS_VALUE &quot;&quot;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_6"/>
+#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="55"
@@ -1547,16 +1487,16 @@
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="ROUTEID ROUTEID  NO_OP FROMMEASURE FROMMEASURE  NO_OP TOMEASURE TOMEASURE  NO_OP COUNTY_CODE_LEFT COUNTY_CODE_LEFT  NO_OP COUNTY_CODE_RIGHT COUNTY_CODE_RIGHT  NO_OP COUNTY_SPLIT_INDICATOR COUNTY_SPLIT_INDICATOR  NO_OP JURISDICTION JURISDICTION  NO_OP MILEAGE_CLASS MILEAGE_CLASS  NO_OP MUNI_CODE_LEFT MUNI_CODE_LEFT  NO_OP MUNI_CODE_RIGHT MUNI_CODE_RIGHT  NO_OP OVERLAP_INDICATOR OVERLAP_INDICATOR  NO_OP ROADWAY_CLASS ROADWAY_CLASS  NO_OP STATE_CODE_LEFT STATE_CODE_LEFT  NO_OP STATE_CODE_RIGHT STATE_CODE_RIGHT  NO_OP TAG_REVENUE_ELIGIBLE TAG_REVENUE_ELIGIBLE  NO_OP TWP_CODE_LEFT TWP_CODE  RENAME_SET_VALUE TWP_CODE_RIGHT TWP_CODE_RIGHT  REMOVE LANES_NBR LANES_NBR  NO_OP ROUTE_TYPE ROUTE_TYPE  NO_OP LENGTH LENGTH  NO_OP LANE_MILES LANE_MILES  NO_OP HALF_LANE_MILES HALF_LANE_MILES  NO_OP  Half_centerline&lt;space&gt;mileages &lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;abs&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;FROMMEASURE&lt;closeparen&gt;-&lt;at&gt;Value&lt;openparen&gt;TOMEASURE&lt;closeparen&gt;&lt;closeparen&gt;&lt;solidus&gt;2&lt;closeparen&gt; SET_TO"/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeManager_6"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="ROUTEID ROUTEID  NO_OP FROMMEASURE FROMMEASURE  NO_OP TOMEASURE TOMEASURE  NO_OP COUNTY_CODE_LEFT COUNTY_CODE_LEFT  NO_OP COUNTY_CODE_RIGHT COUNTY_CODE_RIGHT  NO_OP COUNTY_SPLIT_INDICATOR COUNTY_SPLIT_INDICATOR  NO_OP JURISDICTION JURISDICTION  NO_OP MILEAGE_CLASS MILEAGE_CLASS  NO_OP MUNI_CODE_LEFT MUNI_CODE_LEFT  NO_OP MUNI_CODE_RIGHT MUNI_CODE_RIGHT  NO_OP OVERLAP_INDICATOR OVERLAP_INDICATOR  NO_OP ROADWAY_CLASS ROADWAY_CLASS  NO_OP STATE_CODE_LEFT STATE_CODE_LEFT  NO_OP STATE_CODE_RIGHT STATE_CODE_RIGHT  NO_OP TAG_REVENUE_ELIGIBLE TAG_REVENUE_ELIGIBLE  NO_OP TWP_CODE_LEFT TWP_CODE  RENAME_SET_VALUE TWP_CODE_RIGHT TWP_CODE_RIGHT  REMOVE LANES_NBR LANES_NBR  NO_OP ROUTE_TYPE ROUTE_TYPE  NO_OP LENGTH LENGTH  NO_OP LANE_MILES LANE_MILES  NO_OP HALF_LANE_MILES HALF_LANE_MILES  NO_OP  Half_centerline&lt;space&gt;mileages &lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;abs&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;FROMMEASURE&lt;closeparen&gt;-&lt;at&gt;Value&lt;openparen&gt;TOMEASURE&lt;closeparen&gt;&lt;closeparen&gt;&lt;solidus&gt;2&lt;closeparen&gt; SET_TO"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="56"
@@ -1593,16 +1533,16 @@
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="ROUTEID ROUTEID  NO_OP FROMMEASURE FROMMEASURE  NO_OP TOMEASURE TOMEASURE  NO_OP COUNTY_CODE_LEFT COUNTY_CODE_LEFT  NO_OP COUNTY_CODE_RIGHT COUNTY_CODE_RIGHT  NO_OP COUNTY_SPLIT_INDICATOR COUNTY_SPLIT_INDICATOR  NO_OP JURISDICTION JURISDICTION  NO_OP MILEAGE_CLASS MILEAGE_CLASS  NO_OP MUNI_CODE_LEFT MUNI_CODE_LEFT  NO_OP MUNI_CODE_RIGHT MUNI_CODE_RIGHT  NO_OP OVERLAP_INDICATOR OVERLAP_INDICATOR  NO_OP ROADWAY_CLASS ROADWAY_CLASS  NO_OP STATE_CODE_LEFT STATE_CODE_LEFT  NO_OP STATE_CODE_RIGHT STATE_CODE_RIGHT  NO_OP TAG_REVENUE_ELIGIBLE TAG_REVENUE_ELIGIBLE  NO_OP TWP_CODE_LEFT TWP_CODE_LEFT  REMOVE TWP_CODE_RIGHT TWP_CODE  RENAME_SET_VALUE LANES_NBR LANES_NBR  NO_OP ROUTE_TYPE ROUTE_TYPE  NO_OP LENGTH LENGTH  NO_OP LANE_MILES LANE_MILES  NO_OP HALF_LANE_MILES HALF_LANE_MILES  NO_OP  Half_centerline&lt;space&gt;mileages &lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;abs&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;FROMMEASURE&lt;closeparen&gt;-&lt;at&gt;Value&lt;openparen&gt;TOMEASURE&lt;closeparen&gt;&lt;closeparen&gt;&lt;solidus&gt;2&lt;closeparen&gt; SET_TO"/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeManager_7"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="ROUTEID ROUTEID  NO_OP FROMMEASURE FROMMEASURE  NO_OP TOMEASURE TOMEASURE  NO_OP COUNTY_CODE_LEFT COUNTY_CODE_LEFT  NO_OP COUNTY_CODE_RIGHT COUNTY_CODE_RIGHT  NO_OP COUNTY_SPLIT_INDICATOR COUNTY_SPLIT_INDICATOR  NO_OP JURISDICTION JURISDICTION  NO_OP MILEAGE_CLASS MILEAGE_CLASS  NO_OP MUNI_CODE_LEFT MUNI_CODE_LEFT  NO_OP MUNI_CODE_RIGHT MUNI_CODE_RIGHT  NO_OP OVERLAP_INDICATOR OVERLAP_INDICATOR  NO_OP ROADWAY_CLASS ROADWAY_CLASS  NO_OP STATE_CODE_LEFT STATE_CODE_LEFT  NO_OP STATE_CODE_RIGHT STATE_CODE_RIGHT  NO_OP TAG_REVENUE_ELIGIBLE TAG_REVENUE_ELIGIBLE  NO_OP TWP_CODE_LEFT TWP_CODE_LEFT  REMOVE TWP_CODE_RIGHT TWP_CODE  RENAME_SET_VALUE LANES_NBR LANES_NBR  NO_OP ROUTE_TYPE ROUTE_TYPE  NO_OP LENGTH LENGTH  NO_OP LANE_MILES LANE_MILES  NO_OP HALF_LANE_MILES HALF_LANE_MILES  NO_OP  Half_centerline&lt;space&gt;mileages &lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;abs&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;FROMMEASURE&lt;closeparen&gt;-&lt;at&gt;Value&lt;openparen&gt;TOMEASURE&lt;closeparen&gt;&lt;closeparen&gt;&lt;solidus&gt;2&lt;closeparen&gt; SET_TO"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="57"
@@ -1620,34 +1560,34 @@
 #!     <XFORM_ATTR ATTR_NAME="TWP_CODE" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="ATTR_TO_TRAIT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="Geometry - Assemble One Level"/>
+#!     <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CONCAT_ATTRS" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="COUNT_ATTR" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="Geometry - Assemble One Level"/>
+#!     <XFORM_PARM PARM_NAME="ID_SELECTION" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ORDERED" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="PRESERVE_ID" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SEP" PARM_VALUE="&lt;comma&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SUM" PARM_VALUE="HALF_LANE_MILES &quot;Half_centerline mileages&quot;"/>
+#!     <XFORM_PARM PARM_NAME="WEIGHT" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE_MODE" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ACCUM_ATTRS_NAME" PARM_VALUE="Use Attributes From One Feature"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TO_TRAIT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ASSEMBLE_ONE_LEVEL_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="AGGREGATE_TYPE" PARM_VALUE="Homogeneous Collection (If Possible)"/>
+#!     <XFORM_PARM PARM_NAME="PARENT_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Aggregator_3"/>
 #!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="TWP_CODE"/>
 #!     <XFORM_PARM PARM_NAME="ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="CHILD_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="SEP" PARM_VALUE="&lt;comma&gt;"/>
-#!     <XFORM_PARM PARM_NAME="WEIGHT" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="AGGREGATE_TYPE" PARM_VALUE="Homogeneous Collection (If Possible)"/>
-#!     <XFORM_PARM PARM_NAME="ID_SELECTION" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="AV" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Aggregator_3"/>
-#!     <XFORM_PARM PARM_NAME="PARENT_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="CONCAT_ATTRS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ASSEMBLE_ONE_LEVEL_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
-#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="ORDERED" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PRESERVE_ID" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE_MODE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ASSEMBLE_HIERARCHY_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
-#!     <XFORM_PARM PARM_NAME="SUM" PARM_VALUE="HALF_LANE_MILES &quot;Half_centerline mileages&quot;"/>
+#!     <XFORM_PARM PARM_NAME="AV" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CHILD_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="58"
@@ -1665,9 +1605,9 @@
 #!     <XFORM_ATTR ATTR_NAME="TWP_CODE" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper_3"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="HALF_LANE_MILES,Half_centerline&lt;space&gt;mileages,TWP_CODE"/>
 #! </TRANSFORMER>
@@ -1694,11 +1634,11 @@
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_PARM PARM_NAME="PLACES" PARM_VALUE="3"/>
+#!     <XFORM_PARM PARM_NAME="ROUND_TYPE" PARM_VALUE="Nearest"/>
+#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="HALF_LANE_MILES Half_centerline&lt;space&gt;mileages"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRounder_3"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="HALF_LANE_MILES Half_centerline&lt;space&gt;mileages"/>
-#!     <XFORM_PARM PARM_NAME="ROUND_TYPE" PARM_VALUE="Nearest"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="60"
@@ -1717,14 +1657,14 @@
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_list{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="TRIM_OPTION" PARM_VALUE="Both"/>
+#!     <XFORM_PARM PARM_NAME="DELIMITER" PARM_VALUE="-"/>
+#!     <XFORM_PARM PARM_NAME="DROP_EMPTY_PARTS" PARM_VALUE="No"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeSplitter_2"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="DROP_EMPTY_PARTS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="TWP_CODE"/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_list"/>
-#!     <XFORM_PARM PARM_NAME="DELIMITER" PARM_VALUE="-"/>
+#!     <XFORM_PARM PARM_NAME="TRIM_OPTION" PARM_VALUE="Both"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="TWP_CODE"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="61"
@@ -1745,16 +1685,16 @@
 #!     <XFORM_ATTR ATTR_NAME="Name" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="_list&lt;opencurly&gt;&lt;closecurly&gt; _list&lt;opencurly&gt;&lt;closecurly&gt;  NO_OP  County &lt;at&gt;Value&lt;openparen&gt;_list&lt;opencurly&gt;0&lt;closecurly&gt;&lt;closeparen&gt; SET_TO  Jurisdiction Township SET_TO TWP_CODE TWP_CODE  REMOVE  Name &lt;at&gt;Value&lt;openparen&gt;_list&lt;opencurly&gt;1&lt;closecurly&gt;&lt;closeparen&gt; SET_TO HALF_LANE_MILES LANE_MILES  RENAME_SET_VALUE Half_centerline&lt;space&gt;mileages Centerline&lt;space&gt;mileages  RENAME_SET_VALUE"/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeManager_8"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="_list&lt;opencurly&gt;&lt;closecurly&gt; _list&lt;opencurly&gt;&lt;closecurly&gt;  NO_OP  County &lt;at&gt;Value&lt;openparen&gt;_list&lt;opencurly&gt;0&lt;closecurly&gt;&lt;closeparen&gt; SET_TO  Jurisdiction Township SET_TO TWP_CODE TWP_CODE  REMOVE  Name &lt;at&gt;Value&lt;openparen&gt;_list&lt;opencurly&gt;1&lt;closecurly&gt;&lt;closeparen&gt; SET_TO HALF_LANE_MILES LANE_MILES  RENAME_SET_VALUE Half_centerline&lt;space&gt;mileages Centerline&lt;space&gt;mileages  RENAME_SET_VALUE"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="79"
@@ -1772,34 +1712,34 @@
 #!     <XFORM_ATTR ATTR_NAME="COUNTY_CODE" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="ATTR_TO_TRAIT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="Geometry - Assemble One Level"/>
+#!     <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CONCAT_ATTRS" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="COUNT_ATTR" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="Geometry - Assemble One Level"/>
+#!     <XFORM_PARM PARM_NAME="ID_SELECTION" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ORDERED" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="PRESERVE_ID" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SEP" PARM_VALUE="&lt;comma&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SUM" PARM_VALUE="HALF_LANE_MILES &quot;Half_centerline mileages&quot;"/>
+#!     <XFORM_PARM PARM_NAME="WEIGHT" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE_MODE" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ACCUM_ATTRS_NAME" PARM_VALUE="Use Attributes From One Feature"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TO_TRAIT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ASSEMBLE_ONE_LEVEL_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="AGGREGATE_TYPE" PARM_VALUE="Homogeneous Collection (If Possible)"/>
+#!     <XFORM_PARM PARM_NAME="PARENT_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Aggregator_4"/>
 #!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="COUNTY_CODE"/>
 #!     <XFORM_PARM PARM_NAME="ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="CHILD_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="SEP" PARM_VALUE="&lt;comma&gt;"/>
-#!     <XFORM_PARM PARM_NAME="WEIGHT" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="AGGREGATE_TYPE" PARM_VALUE="Homogeneous Collection (If Possible)"/>
-#!     <XFORM_PARM PARM_NAME="ID_SELECTION" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="AV" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Aggregator_4"/>
-#!     <XFORM_PARM PARM_NAME="PARENT_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="CONCAT_ATTRS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ASSEMBLE_ONE_LEVEL_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
-#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="ORDERED" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PRESERVE_ID" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE_MODE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ASSEMBLE_HIERARCHY_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
-#!     <XFORM_PARM PARM_NAME="SUM" PARM_VALUE="HALF_LANE_MILES &quot;Half_centerline mileages&quot;"/>
+#!     <XFORM_PARM PARM_NAME="AV" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CHILD_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="80"
@@ -1818,9 +1758,9 @@
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="COUNTY_CODE" IS_USER_CREATED="true" FEAT_INDEX="0" ATTR_IS_ENABLED="true" ATTR_VALUE="&lt;at&gt;Substring&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;TWP_CODE&lt;closeparen&gt;&lt;comma&gt;0&lt;comma&gt;3&lt;closeparen&gt;"/>
+#!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper_4"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="HALF_LANE_MILES,Half_centerline&lt;space&gt;mileages,TWP_CODE"/>
 #! </TRANSFORMER>
@@ -1847,11 +1787,11 @@
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_PARM PARM_NAME="PLACES" PARM_VALUE="3"/>
+#!     <XFORM_PARM PARM_NAME="ROUND_TYPE" PARM_VALUE="Nearest"/>
+#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="HALF_LANE_MILES Half_centerline&lt;space&gt;mileages"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRounder_4"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="HALF_LANE_MILES Half_centerline&lt;space&gt;mileages"/>
-#!     <XFORM_PARM PARM_NAME="ROUND_TYPE" PARM_VALUE="Nearest"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="92"
@@ -1912,13 +1852,13 @@
 #!     <XFORM_ATTR ATTR_NAME="LENGTH" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_9"/>
-#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="COMPOSITE"/>
-#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&quot;(1 OR 2) AND (3 OR 4)&quot;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &lt;at&gt;Value&lt;openparen&gt;ROUTE_TYPE&lt;closeparen&gt; = SR&#10;TEST &lt;at&gt;Value&lt;openparen&gt;ROUTE_TYPE&lt;closeparen&gt; = US&#10;TEST &lt;at&gt;Value&lt;openparen&gt;TWP_CODE_LEFT&lt;closeparen&gt; ATTRIBUTE_HAS_VALUE &quot;&quot;&#10;TEST &lt;at&gt;Value&lt;openparen&gt;TWP_CODE_RIGHT&lt;closeparen&gt; ATTRIBUTE_HAS_VALUE &quot;&quot;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&quot;(1 OR 2) AND (3 OR 4)&quot;"/>
 #!     <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_9"/>
+#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="COMPOSITE"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="109"
@@ -1969,28 +1909,28 @@
 #!     <XFORM_ATTR ATTR_NAME="FIPS_CODE" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="POPULATION" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="4" />
-#!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="GEOM_TYPE" PARM_VALUE="Build Polygons"/>
-#!     <XFORM_PARM PARM_NAME="SUPPLIERS_FIRST" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="JOIN_ATTRIBUTES_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MERGE_COUNT_ATTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="SUPPLIER_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PROCESS_DUPS" PARM_VALUE="Yes"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureMerger"/>
-#!     <XFORM_PARM PARM_NAME="JOIN_KEYS" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;FIPS&lt;closeparen&gt; &lt;at&gt;Value&lt;openparen&gt;FIPS_CODE&lt;closeparen&gt; AUTO"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Supplier"/>
+#!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="IGNORE_NULLS" PARM_VALUE="No"/>
 #!     <XFORM_PARM PARM_NAME="MERGE_TYPE" PARM_VALUE="Attributes Only"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE_MODE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SUPPLIERS_FIRST" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="JOIN_ATTRIBUTES_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PROCESS_DUPS" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="JOIN_KEYS" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;FIPS&lt;closeparen&gt; &lt;at&gt;Value&lt;openparen&gt;FIPS_CODE&lt;closeparen&gt; AUTO"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Supplier"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureMerger"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="REJECT_NULL_MISSING_KEYS" PARM_VALUE="No"/>
 #!     <XFORM_PARM PARM_NAME="CONNECT_Z_MODE" PARM_VALUE="First Wins"/>
-#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="MERGE_COUNT_ATTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="GEOM_TYPE" PARM_VALUE="Build Polygons"/>
 #!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="Use Requestor"/>
-#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE_MODE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="IGNORE_NULLS" PARM_VALUE="No"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="116"
@@ -2023,13 +1963,13 @@
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="FIPS_CODE" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="POPULATION" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_10"/>
-#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
-#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &lt;at&gt;Value&lt;openparen&gt;POPULATION&lt;closeparen&gt; &gt; 5000"/>
-#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_10"/>
+#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="124"
@@ -2049,16 +1989,16 @@
 #!     <XFORM_ATTR ATTR_NAME="Name" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="County County  NO_OP  Jurisdiction City SET_TO MUNI Name  RENAME_SET_VALUE _list&lt;opencurly&gt;&lt;closecurly&gt; _list&lt;opencurly&gt;&lt;closecurly&gt;  REMOVE FIPS FIPS  REMOVE LANE_MILES LANE_MILES  NO_OP FIPS_CODE FIPS_CODE  REMOVE POPULATION POPULATION  REMOVE"/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeManager_11"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="County County  NO_OP  Jurisdiction City SET_TO MUNI Name  RENAME_SET_VALUE _list&lt;opencurly&gt;&lt;closecurly&gt; _list&lt;opencurly&gt;&lt;closecurly&gt;  REMOVE FIPS FIPS  REMOVE LANE_MILES LANE_MILES  NO_OP FIPS_CODE FIPS_CODE  REMOVE POPULATION POPULATION  REMOVE"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="112"
@@ -2078,16 +2018,16 @@
 #!     <XFORM_ATTR ATTR_NAME="Name" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="County County  NO_OP  Jurisdiction Village SET_TO MUNI Name  RENAME_SET_VALUE _list&lt;opencurly&gt;&lt;closecurly&gt; _list&lt;opencurly&gt;&lt;closecurly&gt;  REMOVE FIPS FIPS  REMOVE LANE_MILES LANE_MILES  NO_OP FIPS_CODE FIPS_CODE  REMOVE POPULATION POPULATION  REMOVE"/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeManager_12"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="County County  NO_OP  Jurisdiction Village SET_TO MUNI Name  RENAME_SET_VALUE _list&lt;opencurly&gt;&lt;closecurly&gt; _list&lt;opencurly&gt;&lt;closecurly&gt;  REMOVE FIPS FIPS  REMOVE LANE_MILES LANE_MILES  NO_OP FIPS_CODE FIPS_CODE  REMOVE POPULATION POPULATION  REMOVE"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="130"
@@ -2148,13 +2088,13 @@
 #!     <XFORM_ATTR ATTR_NAME="LENGTH" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_12"/>
-#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
-#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &lt;at&gt;Value&lt;openparen&gt;ROUTE_TYPE&lt;closeparen&gt; = CR&#10;TEST &lt;at&gt;Value&lt;openparen&gt;ROUTE_TYPE&lt;closeparen&gt; = SR&#10;TEST &lt;at&gt;Value&lt;openparen&gt;ROUTE_TYPE&lt;closeparen&gt; = TR&#10;TEST &lt;at&gt;Value&lt;openparen&gt;ROUTE_TYPE&lt;closeparen&gt; = US&#10;TEST &lt;at&gt;Value&lt;openparen&gt;ROUTE_TYPE&lt;closeparen&gt; = MR"/>
-#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_12"/>
+#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="108"
@@ -2215,13 +2155,13 @@
 #!     <XFORM_ATTR ATTR_NAME="LENGTH" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_13"/>
-#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
-#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &lt;at&gt;Value&lt;openparen&gt;TWP_CODE_LEFT&lt;closeparen&gt; ATTRIBUTE_HAS_VALUE &quot;&quot;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_13"/>
+#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="119"
@@ -2282,13 +2222,13 @@
 #!     <XFORM_ATTR ATTR_NAME="LENGTH" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_14"/>
-#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
-#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &lt;at&gt;Value&lt;openparen&gt;TWP_CODE_RIGHT&lt;closeparen&gt; ATTRIBUTE_HAS_VALUE &quot;&quot;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_14"/>
+#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="122"
@@ -2325,16 +2265,16 @@
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="ROUTEID ROUTEID  NO_OP FROMMEASURE FROMMEASURE  NO_OP TOMEASURE TOMEASURE  NO_OP COUNTY_CODE_LEFT COUNTY_CODE_LEFT  NO_OP COUNTY_CODE_RIGHT COUNTY_CODE_RIGHT  NO_OP COUNTY_SPLIT_INDICATOR COUNTY_SPLIT_INDICATOR  NO_OP JURISDICTION JURISDICTION  NO_OP MILEAGE_CLASS MILEAGE_CLASS  NO_OP MUNI_CODE_LEFT MUNI_CODE_LEFT  NO_OP MUNI_CODE_RIGHT MUNI_CODE_RIGHT  NO_OP OVERLAP_INDICATOR OVERLAP_INDICATOR  NO_OP ROADWAY_CLASS ROADWAY_CLASS  NO_OP STATE_CODE_LEFT STATE_CODE_LEFT  NO_OP STATE_CODE_RIGHT STATE_CODE_RIGHT  NO_OP TAG_REVENUE_ELIGIBLE TAG_REVENUE_ELIGIBLE  NO_OP TWP_CODE_LEFT TWP_CODE_LEFT  REMOVE TWP_CODE_RIGHT TWP_CODE  RENAME_SET_VALUE LANES_NBR LANES_NBR  NO_OP ROUTE_TYPE ROUTE_TYPE  NO_OP LENGTH LENGTH  NO_OP LANE_MILES LANE_MILES  NO_OP HALF_LANE_MILES HALF_LANE_MILES  NO_OP  Half_centerline&lt;space&gt;mileages &lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;abs&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;FROMMEASURE&lt;closeparen&gt;-&lt;at&gt;Value&lt;openparen&gt;TOMEASURE&lt;closeparen&gt;&lt;closeparen&gt;&lt;solidus&gt;2&lt;closeparen&gt; SET_TO"/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeManager_14"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="ROUTEID ROUTEID  NO_OP FROMMEASURE FROMMEASURE  NO_OP TOMEASURE TOMEASURE  NO_OP COUNTY_CODE_LEFT COUNTY_CODE_LEFT  NO_OP COUNTY_CODE_RIGHT COUNTY_CODE_RIGHT  NO_OP COUNTY_SPLIT_INDICATOR COUNTY_SPLIT_INDICATOR  NO_OP JURISDICTION JURISDICTION  NO_OP MILEAGE_CLASS MILEAGE_CLASS  NO_OP MUNI_CODE_LEFT MUNI_CODE_LEFT  NO_OP MUNI_CODE_RIGHT MUNI_CODE_RIGHT  NO_OP OVERLAP_INDICATOR OVERLAP_INDICATOR  NO_OP ROADWAY_CLASS ROADWAY_CLASS  NO_OP STATE_CODE_LEFT STATE_CODE_LEFT  NO_OP STATE_CODE_RIGHT STATE_CODE_RIGHT  NO_OP TAG_REVENUE_ELIGIBLE TAG_REVENUE_ELIGIBLE  NO_OP TWP_CODE_LEFT TWP_CODE_LEFT  REMOVE TWP_CODE_RIGHT TWP_CODE  RENAME_SET_VALUE LANES_NBR LANES_NBR  NO_OP ROUTE_TYPE ROUTE_TYPE  NO_OP LENGTH LENGTH  NO_OP LANE_MILES LANE_MILES  NO_OP HALF_LANE_MILES HALF_LANE_MILES  NO_OP  Half_centerline&lt;space&gt;mileages &lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;abs&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;FROMMEASURE&lt;closeparen&gt;-&lt;at&gt;Value&lt;openparen&gt;TOMEASURE&lt;closeparen&gt;&lt;closeparen&gt;&lt;solidus&gt;2&lt;closeparen&gt; SET_TO"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="149"
@@ -2353,17 +2293,17 @@
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="COUNTY_CODE" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="TWP_CODE"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRemover_3"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="137"
 #!   TYPE="Tester"
 #!   VERSION="2"
-#!   POSITION="1602.5 1300.5"
-#!   BOUNDING_RECT="1602.5 1300.5 -1 -1"
+#!   POSITION="1630.88 757.5"
+#!   BOUNDING_RECT="1630.88 757.5 523.243 71"
 #!   ORDER="5e+14"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
@@ -2393,6 +2333,7 @@
 #!     <XFORM_ATTR ATTR_NAME="LENGTH" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="County" IS_USER_CREATED="true" FEAT_INDEX="0" ATTR_IS_ENABLED="true" ATTR_VALUE="&lt;at&gt;Substring&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;ROUTEID&lt;closeparen&gt;&lt;comma&gt;1&lt;comma&gt;3&lt;closeparen&gt;"/>
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="true" FEAT_INDEX="0" ATTR_IS_ENABLED="true" ATTR_VALUE="&lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;abs&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;FROMMEASURE&lt;closeparen&gt;-&lt;at&gt;Value&lt;openparen&gt;TOMEASURE&lt;closeparen&gt;&lt;closeparen&gt;&lt;closeparen&gt;"/>
 #!     <OUTPUT_FEAT NAME="FAILED"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
@@ -2418,20 +2359,20 @@
 #!     <XFORM_ATTR ATTR_NAME="LENGTH" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_7"/>
-#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
-#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &lt;at&gt;Value&lt;openparen&gt;ROUTE_TYPE&lt;closeparen&gt; = IR"/>
-#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_7"/>
+#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="139"
 #!   TYPE="StatisticsCalculator"
 #!   VERSION="7"
-#!   POSITION="2250 1200"
-#!   BOUNDING_RECT="2250 1200 -1 -1"
+#!   POSITION="2399.5 727.5"
+#!   BOUNDING_RECT="2399.5 727.5 -1 -1"
 #!   ORDER="5e+14"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
@@ -2439,6 +2380,7 @@
 #! >
 #!     <OUTPUT_FEAT NAME="SUMMARY"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="County" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES.sum" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages.sum" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="COMPLETE"/>
@@ -2465,6 +2407,7 @@
 #!     <XFORM_ATTR ATTR_NAME="LENGTH" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="County" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES.sum" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages.sum" IS_USER_CREATED="false" FEAT_INDEX="1" />
@@ -2492,38 +2435,39 @@
 #!     <XFORM_ATTR ATTR_NAME="LENGTH" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="County" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES.sum" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages.sum" IS_USER_CREATED="false" FEAT_INDEX="2" />
-#!     <XFORM_PARM PARM_NAME="FME_PROCESS_GROUPS_ORDERED" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="STDEV_ATTR" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="COUNT_ATTR" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="RANGE_ATTR" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="SUM_ATTR" PARM_VALUE="sum"/>
-#!     <XFORM_PARM PARM_NAME="MAX_ATTR" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="NUMERIC_ATTR" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MODE_ATTR" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="MEAN_ATTR" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MEDIAN_ATTR" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="HISTO_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="COMPUTE_HISTOGRAM" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="STDEVP_ATTR" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="STATS_ATTRS" PARM_VALUE="LANE_MILES Centerline&lt;space&gt;mileages"/>
-#!     <XFORM_PARM PARM_NAME="FME_PROCESS_COUNTDISP" PARM_VALUE="No Parallelism"/>
+#!     <XFORM_PARM PARM_NAME="COUNT_ATTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="FME_PROCESS_GROUPS_ORDERED" PARM_VALUE="No"/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StatisticsCalculator"/>
-#!     <XFORM_PARM PARM_NAME="PREPEND_ATTR_NAME_CHOICE" PARM_VALUE="For multiple results only"/>
-#!     <XFORM_PARM PARM_NAME="MIN_ATTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="NUMERIC_ATTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="STDEV_ATTR" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PREPEND_ATTR_NAME_CHOICE" PARM_VALUE="For multiple results only"/>
 #!     <XFORM_PARM PARM_NAME="ATTIBUTES_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="FME_PROCESS_COUNTDISP" PARM_VALUE="No Parallelism"/>
+#!     <XFORM_PARM PARM_NAME="MAX_ATTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StatisticsCalculator"/>
+#!     <XFORM_PARM PARM_NAME="STDEVP_ATTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="County"/>
+#!     <XFORM_PARM PARM_NAME="RANGE_ATTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="MIN_ATTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="MODE_ATTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="MEDIAN_ATTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="COMPUTE_HISTOGRAM" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="SUM_ATTR" PARM_VALUE="sum"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="144"
 #!   TYPE="AttributeRounder"
 #!   VERSION="3"
-#!   POSITION="3450 1131.17"
-#!   BOUNDING_RECT="3450 1131.17 -1 -1"
+#!   POSITION="3054.5 757.5"
+#!   BOUNDING_RECT="3054.5 757.5 -1 -1"
 #!   ORDER="5e+14"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
@@ -2531,19 +2475,21 @@
 #! >
 #!     <OUTPUT_FEAT NAME="OUTPUT"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="County" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES.sum" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages.sum" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="&lt;REJECTED&gt;"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
+#!     <XFORM_ATTR ATTR_NAME="County" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES.sum" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages.sum" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_PARM PARM_NAME="PLACES" PARM_VALUE="3"/>
+#!     <XFORM_PARM PARM_NAME="ROUND_TYPE" PARM_VALUE="Nearest"/>
+#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="Centerline&lt;space&gt;mileages.sum LANE_MILES.sum"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRounder_5"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="Centerline&lt;space&gt;mileages.sum LANE_MILES.sum"/>
-#!     <XFORM_PARM PARM_NAME="ROUND_TYPE" PARM_VALUE="Nearest"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="142"
@@ -2604,13 +2550,13 @@
 #!     <XFORM_ATTR ATTR_NAME="LENGTH" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_8"/>
-#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="COMPOSITE"/>
-#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&quot;(1 OR 2) AND (3 OR 4)&quot;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &lt;at&gt;Value&lt;openparen&gt;ROUTE_TYPE&lt;closeparen&gt; = CR&#10;TEST &lt;at&gt;Value&lt;openparen&gt;ROUTE_TYPE&lt;closeparen&gt; = TR&#10;TEST &lt;at&gt;Value&lt;openparen&gt;TWP_CODE_LEFT&lt;closeparen&gt; ATTRIBUTE_HAS_VALUE &quot;&quot;&#10;TEST &lt;at&gt;Value&lt;openparen&gt;TWP_CODE_RIGHT&lt;closeparen&gt; ATTRIBUTE_HAS_VALUE &quot;&quot;"/>
-#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&quot;(1 OR 2) AND (3 OR 4)&quot;"/>
 #!     <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_8"/>
+#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="COMPOSITE"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="161"
@@ -2629,16 +2575,16 @@
 #!     <XFORM_ATTR ATTR_NAME="Jurisdiction" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="COUNTY_CODE County  RENAME_SET_VALUE  Jurisdiction ODOT SET_TO HALF_LANE_MILES LANE_MILES  RENAME_SET_VALUE Half_centerline&lt;space&gt;mileages Centerline&lt;space&gt;mileages  RENAME_SET_VALUE"/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeManager_9"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="COUNTY_CODE County  RENAME_SET_VALUE  Jurisdiction ODOT SET_TO HALF_LANE_MILES LANE_MILES  RENAME_SET_VALUE Half_centerline&lt;space&gt;mileages Centerline&lt;space&gt;mileages  RENAME_SET_VALUE"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="155"
@@ -2655,13 +2601,13 @@
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="County" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Jurisdiction" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="Name" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Name" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Sorter"/>
+#!     <XFORM_PARM PARM_NAME="SORT_PARM" PARM_VALUE="County ALPHA ASCENDING Jurisdiction ALPHA ASCENDING Name ALPHA ASCENDING"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="SORT_GRP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="SORT_PARM" PARM_VALUE="County ALPHA ASCENDING Jurisdiction ALPHA ASCENDING Name ALPHA ASCENDING"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="105"
@@ -2682,10 +2628,10 @@
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE="_list&lt;opencurly&gt;&lt;closecurly&gt;"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRemover"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE="_list&lt;opencurly&gt;&lt;closecurly&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="123"
@@ -2846,40 +2792,6 @@
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_8"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
-#!   IDENTIFIER="141"
-#!   TYPE="Junction"
-#!   VERSION="0"
-#!   POSITION="4000.53 1089.5"
-#!   BOUNDING_RECT="4000.53 1089.5 -1 -1"
-#!   ORDER="5e+14"
-#!   PARMS_EDITED="true"
-#!   ENABLED="true"
-#!   LAST_PARM_EDIT="17539"
-#! >
-#!     <OUTPUT_FEAT NAME="Output"/>
-#!     <FEAT_COLLAPSED COLLAPSED="0"/>
-#!     <XFORM_ATTR ATTR_NAME="LANE_MILES.sum" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="Centerline mileages.sum" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_9"/>
-#! </TRANSFORMER>
-#! <TRANSFORMER
-#!   IDENTIFIER="175"
-#!   TYPE="Junction"
-#!   VERSION="0"
-#!   POSITION="6658.88 2318.51"
-#!   BOUNDING_RECT="6658.88 2318.51 -1 -1"
-#!   ORDER="5e+14"
-#!   PARMS_EDITED="false"
-#!   ENABLED="true"
-#!   LAST_PARM_EDIT="17539"
-#! >
-#!     <OUTPUT_FEAT NAME="Output"/>
-#!     <FEAT_COLLAPSED COLLAPSED="0"/>
-#!     <XFORM_ATTR ATTR_NAME="LANE_MILES.sum" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="Centerline mileages.sum" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_10"/>
-#! </TRANSFORMER>
-#! <TRANSFORMER
 #!   IDENTIFIER="120"
 #!   TYPE="AttributeManager"
 #!   VERSION="1"
@@ -2914,16 +2826,16 @@
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Half_centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="ROUTEID ROUTEID  NO_OP FROMMEASURE FROMMEASURE  NO_OP TOMEASURE TOMEASURE  NO_OP COUNTY_CODE_LEFT COUNTY_CODE_LEFT  NO_OP COUNTY_CODE_RIGHT COUNTY_CODE_RIGHT  NO_OP COUNTY_SPLIT_INDICATOR COUNTY_SPLIT_INDICATOR  NO_OP JURISDICTION JURISDICTION  NO_OP MILEAGE_CLASS MILEAGE_CLASS  NO_OP MUNI_CODE_LEFT MUNI_CODE_LEFT  NO_OP MUNI_CODE_RIGHT MUNI_CODE_RIGHT  NO_OP OVERLAP_INDICATOR OVERLAP_INDICATOR  NO_OP ROADWAY_CLASS ROADWAY_CLASS  NO_OP STATE_CODE_LEFT STATE_CODE_LEFT  NO_OP STATE_CODE_RIGHT STATE_CODE_RIGHT  NO_OP TAG_REVENUE_ELIGIBLE TAG_REVENUE_ELIGIBLE  NO_OP TWP_CODE_LEFT TWP_CODE  RENAME_SET_VALUE TWP_CODE_RIGHT TWP_CODE_RIGHT  REMOVE LANES_NBR LANES_NBR  NO_OP ROUTE_TYPE ROUTE_TYPE  NO_OP LENGTH LENGTH  NO_OP LANE_MILES LANE_MILES  NO_OP HALF_LANE_MILES HALF_LANE_MILES  NO_OP  Half_centerline&lt;space&gt;mileages &lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;abs&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;FROMMEASURE&lt;closeparen&gt;-&lt;at&gt;Value&lt;openparen&gt;TOMEASURE&lt;closeparen&gt;&lt;closeparen&gt;&lt;solidus&gt;2&lt;closeparen&gt; SET_TO"/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeManager_13"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="ROUTEID ROUTEID  NO_OP FROMMEASURE FROMMEASURE  NO_OP TOMEASURE TOMEASURE  NO_OP COUNTY_CODE_LEFT COUNTY_CODE_LEFT  NO_OP COUNTY_CODE_RIGHT COUNTY_CODE_RIGHT  NO_OP COUNTY_SPLIT_INDICATOR COUNTY_SPLIT_INDICATOR  NO_OP JURISDICTION JURISDICTION  NO_OP MILEAGE_CLASS MILEAGE_CLASS  NO_OP MUNI_CODE_LEFT MUNI_CODE_LEFT  NO_OP MUNI_CODE_RIGHT MUNI_CODE_RIGHT  NO_OP OVERLAP_INDICATOR OVERLAP_INDICATOR  NO_OP ROADWAY_CLASS ROADWAY_CLASS  NO_OP STATE_CODE_LEFT STATE_CODE_LEFT  NO_OP STATE_CODE_RIGHT STATE_CODE_RIGHT  NO_OP TAG_REVENUE_ELIGIBLE TAG_REVENUE_ELIGIBLE  NO_OP TWP_CODE_LEFT TWP_CODE  RENAME_SET_VALUE TWP_CODE_RIGHT TWP_CODE_RIGHT  REMOVE LANES_NBR LANES_NBR  NO_OP ROUTE_TYPE ROUTE_TYPE  NO_OP LENGTH LENGTH  NO_OP LANE_MILES LANE_MILES  NO_OP HALF_LANE_MILES HALF_LANE_MILES  NO_OP  Half_centerline&lt;space&gt;mileages &lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;abs&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;FROMMEASURE&lt;closeparen&gt;-&lt;at&gt;Value&lt;openparen&gt;TOMEASURE&lt;closeparen&gt;&lt;closeparen&gt;&lt;solidus&gt;2&lt;closeparen&gt; SET_TO"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="185"
@@ -2961,6 +2873,100 @@
 #!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="HALF_LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="129"
+#!   TYPE="Inspector"
+#!   VERSION="5"
+#!   POSITION="6825.03 2250"
+#!   BOUNDING_RECT="6825.03 2250 -1 -1"
+#!   ORDER="5e+14"
+#!   PARMS_EDITED="true"
+#!   ENABLED="false"
+#!   LAST_PARM_EDIT="17539"
+#! >
+#!     <XFORM_PARM PARM_NAME="RASTER_START_COL" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_NUM_ROWS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="THINNER_TYPE_DISPLAY" PARM_VALUE="No Thinning"/>
+#!     <XFORM_PARM PARM_NAME="VECTOR_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="THINNER_INTERVAL" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_VISUALIZATION_OPTION" PARM_VALUE="No Reduction"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Sorter_Sorted"/>
+#!     <XFORM_PARM PARM_NAME="PEN_COLOR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TACKATTRS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="POINTCLOUD_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_NUM_COLS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="AREA_COLOR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="THINNER_MAX_NUM_POINTS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_START_ROW" PARM_VALUE="&lt;Unused&gt;"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="176"
+#!   TYPE="AttributeManager"
+#!   VERSION="1"
+#!   POSITION="3709.5 787.5"
+#!   BOUNDING_RECT="3709.5 787.5 -1 -1"
+#!   ORDER="5e+14"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="17539"
+#! >
+#!     <OUTPUT_FEAT NAME="OUTPUT"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="County" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Jurisdiction" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="County County  NO_OP  Jurisdiction Interstate SET_TO LANE_MILES.sum LANE_MILES  RENAME_SET_VALUE Centerline&lt;space&gt;mileages.sum Centerline&lt;space&gt;mileages  RENAME_SET_VALUE"/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeManager_4"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="141"
+#!   TYPE="Junction"
+#!   VERSION="0"
+#!   POSITION="4279 833"
+#!   BOUNDING_RECT="4279 833 -1 -1"
+#!   ORDER="5e+14"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="17539"
+#! >
+#!     <OUTPUT_FEAT NAME="Output"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="County" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Jurisdiction" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_9"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="188"
+#!   TYPE="Junction"
+#!   VERSION="0"
+#!   POSITION="5774 2468.61"
+#!   BOUNDING_RECT="5774 2468.61 -1 -1"
+#!   ORDER="5e+14"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="17539"
+#! >
+#!     <OUTPUT_FEAT NAME="Output"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="County" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Jurisdiction" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="LANE_MILES" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Centerline mileages" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_10"/>
 #! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <FEAT_LINKS>
@@ -3394,9 +3400,9 @@
 #!   EXTRA_POINTS=""
 #! />
 #! <FEAT_LINK
-#!   IDENTIFIER="177"
+#!   IDENTIFIER="190"
 #!   SOURCE_NODE="141"
-#!   TARGET_NODE="175"
+#!   TARGET_NODE="188"
 #!   SOURCE_PORT_DESC="fo 0 Output"
 #!   TARGET_PORT_DESC="fi 0 "
 #!   ENABLED="true"
@@ -3438,9 +3444,9 @@
 #!   EXTRA_POINTS=""
 #! />
 #! <FEAT_LINK
-#!   IDENTIFIER="174"
+#!   IDENTIFIER="177"
 #!   SOURCE_NODE="144"
-#!   TARGET_NODE="141"
+#!   TARGET_NODE="176"
 #!   SOURCE_PORT_DESC="fo 0 OUTPUT"
 #!   TARGET_PORT_DESC="fi 0 "
 #!   ENABLED="true"
@@ -3489,6 +3495,17 @@
 #!   TARGET_PORT_DESC="-1"
 #!   ENABLED="true"
 #!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="175"
+#!   SOURCE_NODE="155"
+#!   TARGET_NODE="129"
+#!   SOURCE_PORT_DESC="fo 0 SORTED"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="1"
 #!   HIDDEN="false"
 #!   EXTRA_POINTS=""
 #! />
@@ -3548,11 +3565,11 @@
 #!   EXTRA_POINTS=""
 #! />
 #! <FEAT_LINK
-#!   IDENTIFIER="176"
-#!   SOURCE_NODE="175"
-#!   TARGET_NODE="129"
-#!   SOURCE_PORT_DESC="fo 0 Output"
-#!   TARGET_PORT_DESC="-1"
+#!   IDENTIFIER="174"
+#!   SOURCE_NODE="176"
+#!   TARGET_NODE="141"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 "
 #!   ENABLED="true"
 #!   EXECUTION_IDX="0"
 #!   HIDDEN="false"
@@ -3599,6 +3616,17 @@
 #!   TARGET_PORT_DESC="fi 0 "
 #!   ENABLED="true"
 #!   EXECUTION_IDX="3"
+#!   HIDDEN="false"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="189"
+#!   SOURCE_NODE="188"
+#!   TARGET_NODE="155"
+#!   SOURCE_PORT_DESC="fo 0 Output"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
 #!   HIDDEN="false"
 #!   EXTRA_POINTS=""
 #! />
@@ -3769,19 +3797,165 @@ MACRO WORKSPACE_NAME lane-miles-calculation
 MACRO FME_VIEWER_APP fmedatainspector
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * RoutingFactory   FACTORY_NAME "Router and Unexpected Input Remover"   COMMAND_PARM_EVALUATION SINGLE_PASS   MULTI_READER_KEYWORD SQLITE3_1   INPUT FEATURE_TYPE *    ROUTE SQLITE3 SQLITE3_1::RH_BNDY_CITY TO FME_GENERIC ::RH_BNDY_CITY ALIAS_GEOMETRY    ROUTE SQLITE3 SQLITE3_1::T_ROAD_INVENTORY_EY2016_MERGED TO FME_GENERIC ::T_ROAD_INVENTORY_EY2016_MERGED ALIAS_GEOMETRY    MERGE_INPUT Yes   OUTPUT ROUTED FEATURE_TYPE *
-SQLITE3_1_MERGE_DEF SQLITE3_1::RH_BNDY_CITY EXACT RH_BNDY_CITY DEFLINE sqlite3_sql_statement,,sqlite3_where_clause,FIPS_CODE<space>IS<space>NOT<space>NULL<space>AND<space>POPULATION<space>IS<space>NOT<space>NULL,CORPORATION_NAME,text,FIPS_CODE,text,POPULATION,float
+FACTORY_DEF * RoutingFactory   FACTORY_NAME "Router and Unexpected Input Remover"   COMMAND_PARM_EVALUATION SINGLE_PASS   MULTI_READER_KEYWORD SQLITE3_1   INPUT FEATURE_TYPE *    ROUTE SQLITE3 SQLITE3_1::T_ROAD_INVENTORY_EY2016_MERGED TO FME_GENERIC ::T_ROAD_INVENTORY_EY2016_MERGED ALIAS_GEOMETRY    ROUTE SQLITE3 SQLITE3_1::RH_BNDY_CITY TO FME_GENERIC ::RH_BNDY_CITY ALIAS_GEOMETRY    MERGE_INPUT Yes   OUTPUT ROUTED FEATURE_TYPE *
 SQLITE3_1_MERGE_DEF SQLITE3_1::T_ROAD_INVENTORY_EY2016_MERGED EXACT T_ROAD_INVENTORY_EY2016_MERGED DEFLINE sqlite3_sql_statement,,sqlite3_where_clause,$(sqlite3_where_clause$encode),ROUTEID,text,FROMMEASURE,float,TOMEASURE,float,COUNTY_CODE_LEFT,text,COUNTY_CODE_RIGHT,text,COUNTY_SPLIT_INDICATOR,text,JURISDICTION,text,MILEAGE_CLASS,integer,MUNI_CODE_LEFT,text,MUNI_CODE_RIGHT,text,OVERLAP_INDICATOR,text,ROADWAY_CLASS,integer,STATE_CODE_LEFT,text,STATE_CODE_RIGHT,text,TAG_REVENUE_ELIGIBLE,integer,TWP_CODE_LEFT,text,TWP_CODE_RIGHT,text,LANES_NBR,integer,ROUTE_TYPE,text,LENGTH,text,LANE_MILES,text,HALF_LANE_MILES,text
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * TeeFactory    FACTORY_NAME "RH_BNDY_CITY (SQLITE3_1) Splitter"    INPUT FEATURE_TYPE RH_BNDY_CITY    OUTPUT FEATURE_TYPE RH_BNDY_CITY_SQLITE3_1
+SQLITE3_1_MERGE_DEF SQLITE3_1::RH_BNDY_CITY EXACT RH_BNDY_CITY DEFLINE sqlite3_sql_statement,,sqlite3_where_clause,FIPS_CODE<space>IS<space>NOT<space>NULL<space>AND<space>POPULATION<space>IS<space>NOT<space>NULL,CORPORATION_NAME,text,FIPS_CODE,text,POPULATION,float
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory    FACTORY_NAME "T_ROAD_INVENTORY_EY2016_MERGED (SQLITE3_1) Splitter"    INPUT FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED    OUTPUT FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_SQLITE3_1
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME "RH_BNDY_CITY (SQLITE3_1) Splitter"    INPUT FEATURE_TYPE RH_BNDY_CITY    OUTPUT FEATURE_TYPE RH_BNDY_CITY_SQLITE3_1
 DEFAULT_MACRO WB_CURRENT_CONTEXT
 # -------------------------------------------------------------------------
 FACTORY_DEF * TeeFactory    FACTORY_NAME T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12    INPUT  FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_SQLITE3_1    OUTPUT FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12_Output
 FACTORY_DEF * TeeFactory   FACTORY_NAME "T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12 Output Splitter"   INPUT FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12_Output   OUTPUT FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12_Output_0_50hDP3j1qGY=   OUTPUT FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12_Output_1_j3cCr49NrlI=   OUTPUT FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12_Output_2_E8RIsvYt06o=   OUTPUT FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12_Output_3_rchvjcl93WU=
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TestFactory    FACTORY_NAME Tester_7    INPUT  FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12_Output_3_rchvjcl93WU=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_7) = IR ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_7_PASSED            "@EvaluateExpression(ATTR_CREATE_EXPR_PROPAGATE_MISSING_FDIV,County,<at>Substring<openparen><at>Value<openparen>ROUTEID<closeparen><comma>1<comma>3<closeparen>,Centerline<space>mileages,<at>Evaluate<openparen><at>abs<openparen><at>Value<openparen>FROMMEASURE<closeparen>-<at>Value<openparen>TOMEASURE<closeparen><closeparen><closeparen>, FEATURE_TYPE)"
+# -------------------------------------------------------------------------
+
+DEFAULT_MACRO __StatisticsCalculator_e89256ef_784c_463e_aa31_ce5cbae39c885_GROUP_BY
+MACRO __StatisticsCalculator_e89256ef_784c_463e_aa31_ce5cbae39c885_GROUP_BY County
+DYNAMIC_FUNCTION_CONFIGURATION Python FMEOBJECTS
+DYNAMIC_FUNCTION_CONFIGURATION Python import StatisticsCalculator
+DYNAMIC_FUNCTION_CONFIGURATION Python "StatisticsCalculator.connectTransformer(    'StatisticsCalculator',{     'GROUP_BY_MACRO':'__StatisticsCalculator_e89256ef_784c_463e_aa31_ce5cbae39c885_GROUP_BY',     'GROUP_BY':'County',     'STATS_ATTRS':'LANE_MILES Centerline<space>mileages',     'SUM_ATTR':'sum',     'COMPUTE_HISTOGRAM':'NO',     'HISTO_ATTR':'<Unused>',     'PREPEND_ATTR_NAME':'No',     'encoded_result_attrs':True,     None:None})"
+FACTORY_DEF * TeeFactory    FACTORY_NAME StatisticsCalculator_InputProcessor    INPUT  FEATURE_TYPE Tester_7_PASSED    OUTPUT FEATURE_TYPE __ORIGINAL__       @Python(StatisticsCalculator.recordFeature,StatisticsCalculator)
+FACTORY_DEF * TeeFactory    FACTORY_NAME StatisticsCalculator_UnneededInputNuker    INPUT FEATURE_TYPE __ORIGINAL__
+FACTORY_DEF * SortFactory    FACTORY_NAME StatisticsCalculator_CompleteOutputter    INPUT FEATURE_TYPE __UNUSED_INPUT_TO_GUARANTEE_FACTORY_DOESNT_CONSUME_EVERYTHING__
+FACTORY_DEF * CreationFactory    FACTORY_NAME StatisticsCalculator_SummaryCreator    CREATE_AT_END    NUMBER_TO_CREATE 1    OUTPUT FEATURE_TYPE StatisticsCalculator_SUMMARY
+FACTORY_DEF * ElementFactory    FACTORY_NAME StatisticsCalculator_SummaryExploder    LIST_NAME StatisticsCalculator_stats{}    MODE LEAN_AND_MEAN    CLONE_GEOMETRY no    INPUT FEATURE_TYPE __UNUSED_INPUT_TO_GUARANTEE_FACTORY_DOESNT_CONSUME_EVERYTHING__    INPUT FEATURE_TYPE StatisticsCalculator_SUMMARY       @Python(StatisticsCalculator.summarizeStatistics,StatisticsCalculator,__SINGLE_GUY__)    OUTPUT ELEMENT FEATURE_TYPE StatisticsCalculator_SUMMARY
+
+# -------------------------------------------------------------------------
+
+Tcl2 proc AttributeRounder_5_round {places} {    set attrs [split {Centerline<space>mileages.sum LANE_MILES.sum} { }];    foreach attr $attrs {       set attr [FME_DecodeText $attr];       set original [FME_GetAttribute $attr];       if {$original == {} || [FME_IsAttributeNull $attr]}       {          FME_LogMessage fme_warn 917357 {AttributeRounder_5} $attr;          continue;       };       set comment {"do not attempt rounding if not a number"};       if {[string is double $original] == 0} {continue};       if { [catch {                set multiplier [expr pow(10,$places)];                set result [expr "round($original * $multiplier) / $multiplier"];                set comment {"when rounding integers, chop trailing .0 from the value"};                if {$places == 0 || [string is wideinteger $original] == 1} {                   set result [regsub {[.]0*$} $result {}];                };             };] == 0 } {          FME_SetAttribute $attr $result;       } else {          FME_LogMessage fme_warn 917350 {AttributeRounder_5} $attr;       };   }; }
+FACTORY_DEF * TestFactory    FACTORY_NAME AttributeRounder_5    INPUT  FEATURE_TYPE StatisticsCalculator_SUMMARY    TEST "3" TYPE INT ENCODED    OUTPUT FAILED FEATURE_TYPE AttributeRounder_5_<REJECTED>       fme_rejection_code "INVALID_PARAMETER_DECIMAL_PLACES"    OUTPUT PASSED FEATURE_TYPE __toOutput__
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRounder_5_AttributeRounder    INPUT FEATURE_TYPE __toOutput__    OUTPUT FEATURE_TYPE AttributeRounder_5_OUTPUT         @Tcl2("AttributeRounder_5_round 3")
+
+DEFAULT_MACRO _WB_BYPASS_TERMINATION No
+FACTORY_DEF * TeeFactory FACTORY_NAME AttributeRounder_5_<Rejected> INPUT FEATURE_TYPE AttributeRounder_5_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, AttributeRounder_5<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
+# -------------------------------------------------------------------------
+
+
+FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_4    INPUT  FEATURE_TYPE AttributeRounder_5_OUTPUT    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "" "Jurisdiction" "Interstate" "SET_TO" }      ATTR_ACTION { "LANE_MILES.sum" "LANE_MILES" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "Centerline<space>mileages.sum" "Centerline<space>mileages" "" "RENAME_SET_VALUE" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_4_OUTPUT
+
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_9    INPUT  FEATURE_TYPE AttributeManager_4_OUTPUT    OUTPUT FEATURE_TYPE Junction_9_Output
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_10    INPUT  FEATURE_TYPE Junction_9_Output    OUTPUT FEATURE_TYPE Junction_10_Output
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TestFactory    FACTORY_NAME Tester_8    INPUT  FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12_Output_1_j3cCr49NrlI=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_8) = CR ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_8) = TR ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_LEFT<closeparen>,Tester_8) ATTRIBUTE_HAS_VALUE "" ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_RIGHT<closeparen>,Tester_8) ATTRIBUTE_HAS_VALUE "" ENCODED    BOOLEAN_OPERATOR COMPOSITE    COMPOSITE_TEST_EXPR "(1 OR 2) AND (3 OR 4)"    OUTPUT PASSED FEATURE_TYPE Tester_8_PASSED
+FACTORY_DEF * TeeFactory   FACTORY_NAME "Tester_8 PASSED Splitter"   INPUT FEATURE_TYPE Tester_8_PASSED   OUTPUT FEATURE_TYPE Tester_8_PASSED_0_uXjju+DEpkE=   OUTPUT FEATURE_TYPE Tester_8_PASSED_1_zKKElsne3wk=
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TestFactory    FACTORY_NAME Tester_6    INPUT  FEATURE_TYPE Tester_8_PASSED_0_uXjju+DEpkE=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_RIGHT<closeparen>,Tester_6) ATTRIBUTE_HAS_VALUE "" ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_6_PASSED
+# -------------------------------------------------------------------------
+
+
+FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_7    INPUT  FEATURE_TYPE Tester_6_PASSED    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "TWP_CODE_LEFT" "TWP_CODE_LEFT" "" "REMOVE" }      ATTR_ACTION { "TWP_CODE_RIGHT" "TWP_CODE" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "" "Half_centerline<space>mileages" "<at>Evaluate<openparen><at>abs<openparen><at>Value<openparen>FROMMEASURE<closeparen>-<at>Value<openparen>TOMEASURE<closeparen><closeparen><solidus>2<closeparen>" "SET_TO" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_7_OUTPUT
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TestFactory    FACTORY_NAME Tester_5    INPUT  FEATURE_TYPE Tester_8_PASSED_1_zKKElsne3wk=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_LEFT<closeparen>,Tester_5) ATTRIBUTE_HAS_VALUE "" ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_5_PASSED
+# -------------------------------------------------------------------------
+
+
+FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_6    INPUT  FEATURE_TYPE Tester_5_PASSED    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "TWP_CODE_LEFT" "TWP_CODE" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "TWP_CODE_RIGHT" "TWP_CODE_RIGHT" "" "REMOVE" }      ATTR_ACTION { "" "Half_centerline<space>mileages" "<at>Evaluate<openparen><at>abs<openparen><at>Value<openparen>FROMMEASURE<closeparen>-<at>Value<openparen>TOMEASURE<closeparen><closeparen><solidus>2<closeparen>" "SET_TO" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_6_OUTPUT
+
+# -------------------------------------------------------------------------
+
+INCLUDE [    set macroLine "MACRO AttributeKeeper_3_05d41c67_a9d3_4ef1_99a0_6787abc697df3_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_3    INPUT  FEATURE_TYPE AttributeManager_6_OUTPUT    INPUT  FEATURE_TYPE AttributeManager_7_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_3_OUTPUT        @KeepAttributes(fme_encoded,HALF_LANE_MILES,Half_centerline<space>mileages,TWP_CODE,fme_pcre_match,"^fme_$(AttributeKeeper_3_05d41c67_a9d3_4ef1_99a0_6787abc697df3_LIST_EXP)")
+
+# -------------------------------------------------------------------------
+
+DEFAULT_MACRO Aggregator_3_BREAK_ATTR
+INCLUDE [if {"No" == "Yes"} {puts {MACRO Aggregator_3_BREAK_ATTR BREAK_BEFORE_FIELD_CHANGE TWP_CODE} }]
+FACTORY_DEF {*} AggregateFactory    FACTORY_NAME Aggregator_3    INPUT  FEATURE_TYPE AttributeKeeper_3_OUTPUT    MODE ONE_LEVEL    GROUP_BY TWP_CODE    $(Aggregator_3_BREAK_ATTR)    REMOVE_GEOMETRY NO    ACCUMULATE_ATTRIBUTES One    LIST_ATTRS_TO_INCLUDE { <Unused> }    LIST_ATTRS_TO_INCLUDE_MODE <Unused>    SEPARATOR <comma>    SUM_FIELDS HALF_LANE_MILES "Half_centerline mileages"    PRODUCE_MULTIS YES    OUTPUT AGGREGATE FEATURE_TYPE Aggregator_3_AGGREGATE
+
+# -------------------------------------------------------------------------
+
+Tcl2 proc AttributeRounder_3_round {places} {    set attrs [split {HALF_LANE_MILES Half_centerline<space>mileages} { }];    foreach attr $attrs {       set attr [FME_DecodeText $attr];       set original [FME_GetAttribute $attr];       if {$original == {} || [FME_IsAttributeNull $attr]}       {          FME_LogMessage fme_warn 917357 {AttributeRounder_3} $attr;          continue;       };       set comment {"do not attempt rounding if not a number"};       if {[string is double $original] == 0} {continue};       if { [catch {                set multiplier [expr pow(10,$places)];                set result [expr "round($original * $multiplier) / $multiplier"];                set comment {"when rounding integers, chop trailing .0 from the value"};                if {$places == 0 || [string is wideinteger $original] == 1} {                   set result [regsub {[.]0*$} $result {}];                };             };] == 0 } {          FME_SetAttribute $attr $result;       } else {          FME_LogMessage fme_warn 917350 {AttributeRounder_3} $attr;       };   }; }
+FACTORY_DEF * TestFactory    FACTORY_NAME AttributeRounder_3    INPUT  FEATURE_TYPE Aggregator_3_AGGREGATE    TEST "3" TYPE INT ENCODED    OUTPUT FAILED FEATURE_TYPE AttributeRounder_3_<REJECTED>       fme_rejection_code "INVALID_PARAMETER_DECIMAL_PLACES"    OUTPUT PASSED FEATURE_TYPE __toOutput__
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRounder_3_AttributeRounder    INPUT FEATURE_TYPE __toOutput__    OUTPUT FEATURE_TYPE AttributeRounder_3_OUTPUT         @Tcl2("AttributeRounder_3_round 3")
+
+DEFAULT_MACRO _WB_BYPASS_TERMINATION No
+FACTORY_DEF * TeeFactory FACTORY_NAME AttributeRounder_3_<Rejected> INPUT FEATURE_TYPE AttributeRounder_3_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, AttributeRounder_3<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
+# -------------------------------------------------------------------------
+
+Tcl2 set AttributeSplitter_2_34ec3ce2_ff08_4a09_9209_420549a1443a3_splitDelim [FME_DecodeText {-}];      if { [regexp {^([1-9][0-9]*s)+$} [set AttributeSplitter_2_34ec3ce2_ff08_4a09_9209_420549a1443a3_splitDelim]] }      {         set AttributeSplitter_2_34ec3ce2_ff08_4a09_9209_420549a1443a3_splitWidths [split [regsub -all {s$} {-} {}] s];         proc AttributeSplitter_2_doSplit {}         {            global AttributeSplitter_2_34ec3ce2_ff08_4a09_9209_420549a1443a3_splitWidths;            set source [FME_GetAttribute [FME_DecodeText {TWP_CODE}]];            set attrNum 0;            set listName [FME_DecodeText {_list}];            set attrPos 0;            set keepEmptyParts [string equal {No} {No}];            foreach width [set AttributeSplitter_2_34ec3ce2_ff08_4a09_9209_420549a1443a3_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               set part [string trim $bit];               if { $keepEmptyParts || $part != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $part;                  incr attrNum;               };               incr attrPos $width;            };         };      }      else      {         proc AttributeSplitter_2_doSplit {}         {            global AttributeSplitter_2_34ec3ce2_ff08_4a09_9209_420549a1443a3_splitDelim;            set delim [set AttributeSplitter_2_34ec3ce2_ff08_4a09_9209_420549a1443a3_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute [FME_DecodeText {TWP_CODE}]];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              lappend bits [string range $source $startIndex [expr $nextIndex-1]];              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            lappend bits [string range $source $startIndex end];            set listName [FME_DecodeText {_list}];            set attrNum 0;            foreach bit $bits            {               set trimmedPart [string trim $bit];               if { $keepEmptyParts || $trimmedPart != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $trimmedPart;                  incr attrNum;               };            }          }       }
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeSplitter_2    INPUT  FEATURE_TYPE AttributeRounder_3_OUTPUT    OUTPUT FEATURE_TYPE AttributeSplitter_2_OUTPUT         @Tcl2(AttributeSplitter_2_doSplit)
+
+# -------------------------------------------------------------------------
+
+
+FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_8    INPUT  FEATURE_TYPE AttributeSplitter_2_OUTPUT    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "" "County" "<at>Value<openparen>_list<opencurly>0<closecurly><closeparen>" "SET_TO" }      ATTR_ACTION { "" "Jurisdiction" "Township" "SET_TO" }      ATTR_ACTION { "TWP_CODE" "TWP_CODE" "" "REMOVE" }      ATTR_ACTION { "" "Name" "<at>Value<openparen>_list<opencurly>1<closecurly><closeparen>" "SET_TO" }      ATTR_ACTION { "HALF_LANE_MILES" "LANE_MILES" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "Half_centerline<space>mileages" "Centerline<space>mileages" "" "RENAME_SET_VALUE" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_8_OUTPUT
+
+# -------------------------------------------------------------------------
+
+INCLUDE [    set macroLine "MACRO AttributeRemover_LIST_EXP ";    foreach attr [split "_list<opencurly><closecurly>"] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRemover    INPUT  FEATURE_TYPE AttributeManager_8_OUTPUT    OUTPUT FEATURE_TYPE AttributeRemover_OUTPUT        @RemoveAttributes(fme_encoded,)        @RemoveAttributes(fme_pcre_match"$(AttributeRemover_LIST_EXP)")
+
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_5    INPUT  FEATURE_TYPE AttributeRemover_OUTPUT    OUTPUT FEATURE_TYPE Junction_5_Output
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_6    INPUT  FEATURE_TYPE Junction_5_Output    OUTPUT FEATURE_TYPE Junction_6_Output
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TestFactory    FACTORY_NAME Tester_9    INPUT  FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12_Output_2_E8RIsvYt06o=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_9) = SR ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_9) = US ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_LEFT<closeparen>,Tester_9) ATTRIBUTE_HAS_VALUE "" ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_RIGHT<closeparen>,Tester_9) ATTRIBUTE_HAS_VALUE "" ENCODED    BOOLEAN_OPERATOR COMPOSITE    COMPOSITE_TEST_EXPR "(1 OR 2) AND (3 OR 4)"    OUTPUT PASSED FEATURE_TYPE Tester_9_PASSED
+FACTORY_DEF * TeeFactory   FACTORY_NAME "Tester_9 PASSED Splitter"   INPUT FEATURE_TYPE Tester_9_PASSED   OUTPUT FEATURE_TYPE Tester_9_PASSED_0_HSVoCLHRNVQ=   OUTPUT FEATURE_TYPE Tester_9_PASSED_1_qtzj15OA3vY=
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TestFactory    FACTORY_NAME Tester_14    INPUT  FEATURE_TYPE Tester_9_PASSED_0_HSVoCLHRNVQ=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_RIGHT<closeparen>,Tester_14) ATTRIBUTE_HAS_VALUE "" ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_14_PASSED
+# -------------------------------------------------------------------------
+
+
+FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_14    INPUT  FEATURE_TYPE Tester_14_PASSED    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "TWP_CODE_LEFT" "TWP_CODE_LEFT" "" "REMOVE" }      ATTR_ACTION { "TWP_CODE_RIGHT" "TWP_CODE" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "" "Half_centerline<space>mileages" "<at>Evaluate<openparen><at>abs<openparen><at>Value<openparen>FROMMEASURE<closeparen>-<at>Value<openparen>TOMEASURE<closeparen><closeparen><solidus>2<closeparen>" "SET_TO" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_14_OUTPUT
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TestFactory    FACTORY_NAME Tester_13    INPUT  FEATURE_TYPE Tester_9_PASSED_1_qtzj15OA3vY=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_LEFT<closeparen>,Tester_13) ATTRIBUTE_HAS_VALUE "" ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_13_PASSED
+# -------------------------------------------------------------------------
+
+
+FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_13    INPUT  FEATURE_TYPE Tester_13_PASSED    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "TWP_CODE_LEFT" "TWP_CODE" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "TWP_CODE_RIGHT" "TWP_CODE_RIGHT" "" "REMOVE" }      ATTR_ACTION { "" "Half_centerline<space>mileages" "<at>Evaluate<openparen><at>abs<openparen><at>Value<openparen>FROMMEASURE<closeparen>-<at>Value<openparen>TOMEASURE<closeparen><closeparen><solidus>2<closeparen>" "SET_TO" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_13_OUTPUT
+
+# -------------------------------------------------------------------------
+
+INCLUDE [    set macroLine "MACRO AttributeKeeper_4_ad52b333_9bd2_4ce4_b4f0_bbd25b8d34c84_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_4    INPUT  FEATURE_TYPE AttributeManager_13_OUTPUT    INPUT  FEATURE_TYPE AttributeManager_14_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_4_OUTPUT        @KeepAttributes(fme_encoded,HALF_LANE_MILES,Half_centerline<space>mileages,TWP_CODE,fme_pcre_match,"^fme_$(AttributeKeeper_4_ad52b333_9bd2_4ce4_b4f0_bbd25b8d34c84_LIST_EXP)")            "@EvaluateExpression(ATTR_CREATE_EXPR_PROPAGATE_MISSING_FDIV,COUNTY_CODE,<at>Substring<openparen><at>Value<openparen>TWP_CODE<closeparen><comma>0<comma>3<closeparen>, FEATURE_TYPE)"
+
+# -------------------------------------------------------------------------
+
+INCLUDE [    set macroLine "MACRO AttributeRemover_3_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRemover_3    INPUT  FEATURE_TYPE AttributeKeeper_4_OUTPUT    OUTPUT FEATURE_TYPE AttributeRemover_3_OUTPUT        @RemoveAttributes(fme_encoded,TWP_CODE)        @RemoveAttributes(fme_pcre_match"$(AttributeRemover_3_LIST_EXP)")
+
+# -------------------------------------------------------------------------
+
+DEFAULT_MACRO Aggregator_4_BREAK_ATTR
+INCLUDE [if {"No" == "Yes"} {puts {MACRO Aggregator_4_BREAK_ATTR BREAK_BEFORE_FIELD_CHANGE COUNTY_CODE} }]
+FACTORY_DEF {*} AggregateFactory    FACTORY_NAME Aggregator_4    INPUT  FEATURE_TYPE AttributeRemover_3_OUTPUT    MODE ONE_LEVEL    GROUP_BY COUNTY_CODE    $(Aggregator_4_BREAK_ATTR)    REMOVE_GEOMETRY NO    ACCUMULATE_ATTRIBUTES One    LIST_ATTRS_TO_INCLUDE { <Unused> }    LIST_ATTRS_TO_INCLUDE_MODE <Unused>    SEPARATOR <comma>    SUM_FIELDS HALF_LANE_MILES "Half_centerline mileages"    PRODUCE_MULTIS YES    OUTPUT AGGREGATE FEATURE_TYPE Aggregator_4_AGGREGATE
+
+# -------------------------------------------------------------------------
+
+Tcl2 proc AttributeRounder_4_round {places} {    set attrs [split {HALF_LANE_MILES Half_centerline<space>mileages} { }];    foreach attr $attrs {       set attr [FME_DecodeText $attr];       set original [FME_GetAttribute $attr];       if {$original == {} || [FME_IsAttributeNull $attr]}       {          FME_LogMessage fme_warn 917357 {AttributeRounder_4} $attr;          continue;       };       set comment {"do not attempt rounding if not a number"};       if {[string is double $original] == 0} {continue};       if { [catch {                set multiplier [expr pow(10,$places)];                set result [expr "round($original * $multiplier) / $multiplier"];                set comment {"when rounding integers, chop trailing .0 from the value"};                if {$places == 0 || [string is wideinteger $original] == 1} {                   set result [regsub {[.]0*$} $result {}];                };             };] == 0 } {          FME_SetAttribute $attr $result;       } else {          FME_LogMessage fme_warn 917350 {AttributeRounder_4} $attr;       };   }; }
+FACTORY_DEF * TestFactory    FACTORY_NAME AttributeRounder_4    INPUT  FEATURE_TYPE Aggregator_4_AGGREGATE    TEST "3" TYPE INT ENCODED    OUTPUT FAILED FEATURE_TYPE AttributeRounder_4_<REJECTED>       fme_rejection_code "INVALID_PARAMETER_DECIMAL_PLACES"    OUTPUT PASSED FEATURE_TYPE __toOutput__
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRounder_4_AttributeRounder    INPUT FEATURE_TYPE __toOutput__    OUTPUT FEATURE_TYPE AttributeRounder_4_OUTPUT         @Tcl2("AttributeRounder_4_round 3")
+
+DEFAULT_MACRO _WB_BYPASS_TERMINATION No
+FACTORY_DEF * TeeFactory FACTORY_NAME AttributeRounder_4_<Rejected> INPUT FEATURE_TYPE AttributeRounder_4_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, AttributeRounder_4<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
+# -------------------------------------------------------------------------
+
+
+FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_9    INPUT  FEATURE_TYPE AttributeRounder_4_OUTPUT    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "COUNTY_CODE" "County" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "" "Jurisdiction" "ODOT" "SET_TO" }      ATTR_ACTION { "HALF_LANE_MILES" "LANE_MILES" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "Half_centerline<space>mileages" "Centerline<space>mileages" "" "RENAME_SET_VALUE" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_9_OUTPUT
+
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_7    INPUT  FEATURE_TYPE AttributeManager_9_OUTPUT    OUTPUT FEATURE_TYPE Junction_7_Output
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_8    INPUT  FEATURE_TYPE Junction_7_Output    OUTPUT FEATURE_TYPE Junction_8_Output
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TestFactory    FACTORY_NAME Tester_12    INPUT  FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12_Output_0_50hDP3j1qGY=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_12) = CR ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_12) = SR ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_12) = TR ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_12) = US ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_12) = MR ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_12_PASSED
@@ -3804,9 +3978,9 @@ FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_2    INPUT  FEAT
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_f664a619_e173_43dc_89e2_f0218f7541e50_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_048f9fb3_7c89_483e_b4c0_190190c64aa53_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE AttributeManager_OUTPUT    INPUT  FEATURE_TYPE AttributeManager_2_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,HALF_LANE_MILES,MUNI,Half_centerline<space>mileages,fme_pcre_match,"^fme_$(AttributeKeeper_f664a619_e173_43dc_89e2_f0218f7541e50_LIST_EXP)")
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE AttributeManager_OUTPUT    INPUT  FEATURE_TYPE AttributeManager_2_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,HALF_LANE_MILES,MUNI,Half_centerline<space>mileages,fme_pcre_match,"^fme_$(AttributeKeeper_048f9fb3_7c89_483e_b4c0_190190c64aa53_LIST_EXP)")
 
 # -------------------------------------------------------------------------
 
@@ -3824,7 +3998,7 @@ DEFAULT_MACRO _WB_BYPASS_TERMINATION No
 FACTORY_DEF * TeeFactory FACTORY_NAME AttributeRounder_<Rejected> INPUT FEATURE_TYPE AttributeRounder_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, AttributeRounder<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
 # -------------------------------------------------------------------------
 
-Tcl2 set AttributeSplitter_2c714283_15af_4ded_a85a_7aa7a0d78dec0_splitDelim [FME_DecodeText {-}];      if { [regexp {^([1-9][0-9]*s)+$} [set AttributeSplitter_2c714283_15af_4ded_a85a_7aa7a0d78dec0_splitDelim]] }      {         set AttributeSplitter_2c714283_15af_4ded_a85a_7aa7a0d78dec0_splitWidths [split [regsub -all {s$} {-} {}] s];         proc AttributeSplitter_doSplit {}         {            global AttributeSplitter_2c714283_15af_4ded_a85a_7aa7a0d78dec0_splitWidths;            set source [FME_GetAttribute [FME_DecodeText {MUNI}]];            set attrNum 0;            set listName [FME_DecodeText {_list}];            set attrPos 0;            set keepEmptyParts [string equal {No} {No}];            foreach width [set AttributeSplitter_2c714283_15af_4ded_a85a_7aa7a0d78dec0_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               set part [string trim $bit];               if { $keepEmptyParts || $part != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $part;                  incr attrNum;               };               incr attrPos $width;            };         };      }      else      {         proc AttributeSplitter_doSplit {}         {            global AttributeSplitter_2c714283_15af_4ded_a85a_7aa7a0d78dec0_splitDelim;            set delim [set AttributeSplitter_2c714283_15af_4ded_a85a_7aa7a0d78dec0_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute [FME_DecodeText {MUNI}]];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              lappend bits [string range $source $startIndex [expr $nextIndex-1]];              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            lappend bits [string range $source $startIndex end];            set listName [FME_DecodeText {_list}];            set attrNum 0;            foreach bit $bits            {               set trimmedPart [string trim $bit];               if { $keepEmptyParts || $trimmedPart != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $trimmedPart;                  incr attrNum;               };            }          }       }
+Tcl2 set AttributeSplitter_00dbc665_af89_4e34_a1be_a6f46d0d08923_splitDelim [FME_DecodeText {-}];      if { [regexp {^([1-9][0-9]*s)+$} [set AttributeSplitter_00dbc665_af89_4e34_a1be_a6f46d0d08923_splitDelim]] }      {         set AttributeSplitter_00dbc665_af89_4e34_a1be_a6f46d0d08923_splitWidths [split [regsub -all {s$} {-} {}] s];         proc AttributeSplitter_doSplit {}         {            global AttributeSplitter_00dbc665_af89_4e34_a1be_a6f46d0d08923_splitWidths;            set source [FME_GetAttribute [FME_DecodeText {MUNI}]];            set attrNum 0;            set listName [FME_DecodeText {_list}];            set attrPos 0;            set keepEmptyParts [string equal {No} {No}];            foreach width [set AttributeSplitter_00dbc665_af89_4e34_a1be_a6f46d0d08923_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               set part [string trim $bit];               if { $keepEmptyParts || $part != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $part;                  incr attrNum;               };               incr attrPos $width;            };         };      }      else      {         proc AttributeSplitter_doSplit {}         {            global AttributeSplitter_00dbc665_af89_4e34_a1be_a6f46d0d08923_splitDelim;            set delim [set AttributeSplitter_00dbc665_af89_4e34_a1be_a6f46d0d08923_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute [FME_DecodeText {MUNI}]];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              lappend bits [string range $source $startIndex [expr $nextIndex-1]];              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            lappend bits [string range $source $startIndex end];            set listName [FME_DecodeText {_list}];            set attrNum 0;            foreach bit $bits            {               set trimmedPart [string trim $bit];               if { $keepEmptyParts || $trimmedPart != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $trimmedPart;                  incr attrNum;               };            }          }       }
 FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeSplitter    INPUT  FEATURE_TYPE AttributeRounder_OUTPUT    OUTPUT FEATURE_TYPE AttributeSplitter_OUTPUT         @Tcl2(AttributeSplitter_doSplit)
 
 # -------------------------------------------------------------------------
@@ -3863,157 +4037,17 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME Junction    INPUT  FEATURE_TYPE Attribu
 FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_2    INPUT  FEATURE_TYPE Junction_Output    OUTPUT FEATURE_TYPE Junction_2_Output
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TestFactory    FACTORY_NAME Tester_7    INPUT  FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12_Output_3_rchvjcl93WU=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_7) = IR ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_7_PASSED            "@EvaluateExpression(ATTR_CREATE_EXPR_PROPAGATE_MISSING_FDIV,Centerline<space>mileages,<at>Evaluate<openparen><at>abs<openparen><at>Value<openparen>FROMMEASURE<closeparen>-<at>Value<openparen>TOMEASURE<closeparen><closeparen><closeparen>, FEATURE_TYPE)"
+FACTORY_DEF * SortFactory    FACTORY_NAME Sorter    INPUT  FEATURE_TYPE Junction_2_Output    INPUT  FEATURE_TYPE Junction_6_Output    INPUT  FEATURE_TYPE Junction_4_Output    INPUT  FEATURE_TYPE Junction_8_Output    INPUT  FEATURE_TYPE Junction_10_Output    SORT_BY County ALPHA ASCENDING Jurisdiction ALPHA ASCENDING Name ALPHA ASCENDING    OUTPUT SORTED FEATURE_TYPE Sorter_SORTED
+
+FACTORY_DEF * TeeFactory   FACTORY_NAME "Sorter SORTED Splitter"   INPUT FEATURE_TYPE Sorter_SORTED   OUTPUT FEATURE_TYPE Sorter_SORTED_0_3iJewJ+xcb8=   OUTPUT FEATURE_TYPE Sorter_SORTED_1_AdG4IKX8gxs=
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory   FACTORY_NAME "Sorter_Sorted (Disabled) Nuker"   INPUT FEATURE_TYPE Sorter_SORTED_1_AdG4IKX8gxs=
 # -------------------------------------------------------------------------
 
-DEFAULT_MACRO __StatisticsCalculator_74543e1a_2115_4065_b259_69af076d43e70_GROUP_BY
-
-DYNAMIC_FUNCTION_CONFIGURATION Python FMEOBJECTS
-DYNAMIC_FUNCTION_CONFIGURATION Python import StatisticsCalculator
-DYNAMIC_FUNCTION_CONFIGURATION Python "StatisticsCalculator.connectTransformer(    'StatisticsCalculator',{     'GROUP_BY_MACRO':'__StatisticsCalculator_74543e1a_2115_4065_b259_69af076d43e70_GROUP_BY',     'STATS_ATTRS':'LANE_MILES Centerline<space>mileages',     'SUM_ATTR':'sum',     'COMPUTE_HISTOGRAM':'NO',     'HISTO_ATTR':'<Unused>',     'PREPEND_ATTR_NAME':'No',     'encoded_result_attrs':True,     None:None})"
-FACTORY_DEF * TeeFactory    FACTORY_NAME StatisticsCalculator_InputProcessor    INPUT  FEATURE_TYPE Tester_7_PASSED    OUTPUT FEATURE_TYPE __ORIGINAL__       @Python(StatisticsCalculator.recordFeature,StatisticsCalculator)
-FACTORY_DEF * TeeFactory    FACTORY_NAME StatisticsCalculator_UnneededInputNuker    INPUT FEATURE_TYPE __ORIGINAL__
-FACTORY_DEF * SortFactory    FACTORY_NAME StatisticsCalculator_CompleteOutputter    INPUT FEATURE_TYPE __UNUSED_INPUT_TO_GUARANTEE_FACTORY_DOESNT_CONSUME_EVERYTHING__
-FACTORY_DEF * CreationFactory    FACTORY_NAME StatisticsCalculator_SummaryCreator    CREATE_AT_END    NUMBER_TO_CREATE 1    OUTPUT FEATURE_TYPE StatisticsCalculator_SUMMARY
-FACTORY_DEF * ElementFactory    FACTORY_NAME StatisticsCalculator_SummaryExploder    LIST_NAME StatisticsCalculator_stats{}    MODE LEAN_AND_MEAN    CLONE_GEOMETRY no    INPUT FEATURE_TYPE __UNUSED_INPUT_TO_GUARANTEE_FACTORY_DOESNT_CONSUME_EVERYTHING__    INPUT FEATURE_TYPE StatisticsCalculator_SUMMARY       @Python(StatisticsCalculator.summarizeStatistics,StatisticsCalculator,__SINGLE_GUY__)    OUTPUT ELEMENT FEATURE_TYPE StatisticsCalculator_SUMMARY
-
-# -------------------------------------------------------------------------
-
-Tcl2 proc AttributeRounder_5_round {places} {    set attrs [split {Centerline<space>mileages.sum LANE_MILES.sum} { }];    foreach attr $attrs {       set attr [FME_DecodeText $attr];       set original [FME_GetAttribute $attr];       if {$original == {} || [FME_IsAttributeNull $attr]}       {          FME_LogMessage fme_warn 917357 {AttributeRounder_5} $attr;          continue;       };       set comment {"do not attempt rounding if not a number"};       if {[string is double $original] == 0} {continue};       if { [catch {                set multiplier [expr pow(10,$places)];                set result [expr "round($original * $multiplier) / $multiplier"];                set comment {"when rounding integers, chop trailing .0 from the value"};                if {$places == 0 || [string is wideinteger $original] == 1} {                   set result [regsub {[.]0*$} $result {}];                };             };] == 0 } {          FME_SetAttribute $attr $result;       } else {          FME_LogMessage fme_warn 917350 {AttributeRounder_5} $attr;       };   }; }
-FACTORY_DEF * TestFactory    FACTORY_NAME AttributeRounder_5    INPUT  FEATURE_TYPE StatisticsCalculator_SUMMARY    TEST "3" TYPE INT ENCODED    OUTPUT FAILED FEATURE_TYPE AttributeRounder_5_<REJECTED>       fme_rejection_code "INVALID_PARAMETER_DECIMAL_PLACES"    OUTPUT PASSED FEATURE_TYPE __toOutput__
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRounder_5_AttributeRounder    INPUT FEATURE_TYPE __toOutput__    OUTPUT FEATURE_TYPE AttributeRounder_5_OUTPUT         @Tcl2("AttributeRounder_5_round 3")
-
-DEFAULT_MACRO _WB_BYPASS_TERMINATION No
-FACTORY_DEF * TeeFactory FACTORY_NAME AttributeRounder_5_<Rejected> INPUT FEATURE_TYPE AttributeRounder_5_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, AttributeRounder_5<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
-# -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_9    INPUT  FEATURE_TYPE AttributeRounder_5_OUTPUT    OUTPUT FEATURE_TYPE Junction_9_Output
-# -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_10    INPUT  FEATURE_TYPE Junction_9_Output    OUTPUT FEATURE_TYPE Junction_10_Output
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * TestFactory    FACTORY_NAME Tester_9    INPUT  FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12_Output_2_E8RIsvYt06o=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_9) = SR ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_9) = US ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_LEFT<closeparen>,Tester_9) ATTRIBUTE_HAS_VALUE "" ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_RIGHT<closeparen>,Tester_9) ATTRIBUTE_HAS_VALUE "" ENCODED    BOOLEAN_OPERATOR COMPOSITE    COMPOSITE_TEST_EXPR "(1 OR 2) AND (3 OR 4)"    OUTPUT PASSED FEATURE_TYPE Tester_9_PASSED
-FACTORY_DEF * TeeFactory   FACTORY_NAME "Tester_9 PASSED Splitter"   INPUT FEATURE_TYPE Tester_9_PASSED   OUTPUT FEATURE_TYPE Tester_9_PASSED_0_HSVoCLHRNVQ=   OUTPUT FEATURE_TYPE Tester_9_PASSED_1_qtzj15OA3vY=
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * TestFactory    FACTORY_NAME Tester_14    INPUT  FEATURE_TYPE Tester_9_PASSED_0_HSVoCLHRNVQ=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_RIGHT<closeparen>,Tester_14) ATTRIBUTE_HAS_VALUE "" ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_14_PASSED
-# -------------------------------------------------------------------------
-
-
-FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_14    INPUT  FEATURE_TYPE Tester_14_PASSED    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "TWP_CODE_LEFT" "TWP_CODE_LEFT" "" "REMOVE" }      ATTR_ACTION { "TWP_CODE_RIGHT" "TWP_CODE" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "" "Half_centerline<space>mileages" "<at>Evaluate<openparen><at>abs<openparen><at>Value<openparen>FROMMEASURE<closeparen>-<at>Value<openparen>TOMEASURE<closeparen><closeparen><solidus>2<closeparen>" "SET_TO" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_14_OUTPUT
-
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * TestFactory    FACTORY_NAME Tester_13    INPUT  FEATURE_TYPE Tester_9_PASSED_1_qtzj15OA3vY=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_LEFT<closeparen>,Tester_13) ATTRIBUTE_HAS_VALUE "" ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_13_PASSED
-# -------------------------------------------------------------------------
-
-
-FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_13    INPUT  FEATURE_TYPE Tester_13_PASSED    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "TWP_CODE_LEFT" "TWP_CODE" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "TWP_CODE_RIGHT" "TWP_CODE_RIGHT" "" "REMOVE" }      ATTR_ACTION { "" "Half_centerline<space>mileages" "<at>Evaluate<openparen><at>abs<openparen><at>Value<openparen>FROMMEASURE<closeparen>-<at>Value<openparen>TOMEASURE<closeparen><closeparen><solidus>2<closeparen>" "SET_TO" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_13_OUTPUT
-
-# -------------------------------------------------------------------------
-
-INCLUDE [    set macroLine "MACRO AttributeKeeper_4_d890d1d6_40da_4257_8d4d_84ccb801f1670_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
-
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_4    INPUT  FEATURE_TYPE AttributeManager_13_OUTPUT    INPUT  FEATURE_TYPE AttributeManager_14_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_4_OUTPUT        @KeepAttributes(fme_encoded,HALF_LANE_MILES,Half_centerline<space>mileages,TWP_CODE,fme_pcre_match,"^fme_$(AttributeKeeper_4_d890d1d6_40da_4257_8d4d_84ccb801f1670_LIST_EXP)")            "@EvaluateExpression(ATTR_CREATE_EXPR_PROPAGATE_MISSING_FDIV,COUNTY_CODE,<at>Substring<openparen><at>Value<openparen>TWP_CODE<closeparen><comma>0<comma>3<closeparen>, FEATURE_TYPE)"
-
-# -------------------------------------------------------------------------
-
-INCLUDE [    set macroLine "MACRO AttributeRemover_3_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRemover_3    INPUT  FEATURE_TYPE AttributeKeeper_4_OUTPUT    OUTPUT FEATURE_TYPE AttributeRemover_3_OUTPUT        @RemoveAttributes(fme_encoded,TWP_CODE)        @RemoveAttributes(fme_pcre_match"$(AttributeRemover_3_LIST_EXP)")
-
-# -------------------------------------------------------------------------
-
-DEFAULT_MACRO Aggregator_4_BREAK_ATTR
-INCLUDE [if {"No" == "Yes"} {puts {MACRO Aggregator_4_BREAK_ATTR BREAK_BEFORE_FIELD_CHANGE COUNTY_CODE} }]
-FACTORY_DEF {*} AggregateFactory    FACTORY_NAME Aggregator_4    INPUT  FEATURE_TYPE AttributeRemover_3_OUTPUT    MODE ONE_LEVEL    GROUP_BY COUNTY_CODE    $(Aggregator_4_BREAK_ATTR)    REMOVE_GEOMETRY NO    ACCUMULATE_ATTRIBUTES One    LIST_ATTRS_TO_INCLUDE { <Unused> }    LIST_ATTRS_TO_INCLUDE_MODE <Unused>    SEPARATOR <comma>    SUM_FIELDS HALF_LANE_MILES "Half_centerline mileages"    PRODUCE_MULTIS YES    OUTPUT AGGREGATE FEATURE_TYPE Aggregator_4_AGGREGATE
-
-# -------------------------------------------------------------------------
-
-Tcl2 proc AttributeRounder_4_round {places} {    set attrs [split {HALF_LANE_MILES Half_centerline<space>mileages} { }];    foreach attr $attrs {       set attr [FME_DecodeText $attr];       set original [FME_GetAttribute $attr];       if {$original == {} || [FME_IsAttributeNull $attr]}       {          FME_LogMessage fme_warn 917357 {AttributeRounder_4} $attr;          continue;       };       set comment {"do not attempt rounding if not a number"};       if {[string is double $original] == 0} {continue};       if { [catch {                set multiplier [expr pow(10,$places)];                set result [expr "round($original * $multiplier) / $multiplier"];                set comment {"when rounding integers, chop trailing .0 from the value"};                if {$places == 0 || [string is wideinteger $original] == 1} {                   set result [regsub {[.]0*$} $result {}];                };             };] == 0 } {          FME_SetAttribute $attr $result;       } else {          FME_LogMessage fme_warn 917350 {AttributeRounder_4} $attr;       };   }; }
-FACTORY_DEF * TestFactory    FACTORY_NAME AttributeRounder_4    INPUT  FEATURE_TYPE Aggregator_4_AGGREGATE    TEST "3" TYPE INT ENCODED    OUTPUT FAILED FEATURE_TYPE AttributeRounder_4_<REJECTED>       fme_rejection_code "INVALID_PARAMETER_DECIMAL_PLACES"    OUTPUT PASSED FEATURE_TYPE __toOutput__
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRounder_4_AttributeRounder    INPUT FEATURE_TYPE __toOutput__    OUTPUT FEATURE_TYPE AttributeRounder_4_OUTPUT         @Tcl2("AttributeRounder_4_round 3")
-
-DEFAULT_MACRO _WB_BYPASS_TERMINATION No
-FACTORY_DEF * TeeFactory FACTORY_NAME AttributeRounder_4_<Rejected> INPUT FEATURE_TYPE AttributeRounder_4_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, AttributeRounder_4<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
-# -------------------------------------------------------------------------
-
-
-FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_9    INPUT  FEATURE_TYPE AttributeRounder_4_OUTPUT    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "COUNTY_CODE" "County" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "" "Jurisdiction" "ODOT" "SET_TO" }      ATTR_ACTION { "HALF_LANE_MILES" "LANE_MILES" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "Half_centerline<space>mileages" "Centerline<space>mileages" "" "RENAME_SET_VALUE" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_9_OUTPUT
-
-# -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_7    INPUT  FEATURE_TYPE AttributeManager_9_OUTPUT    OUTPUT FEATURE_TYPE Junction_7_Output
-# -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_8    INPUT  FEATURE_TYPE Junction_7_Output    OUTPUT FEATURE_TYPE Junction_8_Output
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * TestFactory    FACTORY_NAME Tester_8    INPUT  FEATURE_TYPE T_ROAD_INVENTORY_EY2016_MERGED_-__Tester_12_Output_1_j3cCr49NrlI=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_8) = CR ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ROUTE_TYPE<closeparen>,Tester_8) = TR ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_LEFT<closeparen>,Tester_8) ATTRIBUTE_HAS_VALUE "" ENCODED TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_RIGHT<closeparen>,Tester_8) ATTRIBUTE_HAS_VALUE "" ENCODED    BOOLEAN_OPERATOR COMPOSITE    COMPOSITE_TEST_EXPR "(1 OR 2) AND (3 OR 4)"    OUTPUT PASSED FEATURE_TYPE Tester_8_PASSED
-FACTORY_DEF * TeeFactory   FACTORY_NAME "Tester_8 PASSED Splitter"   INPUT FEATURE_TYPE Tester_8_PASSED   OUTPUT FEATURE_TYPE Tester_8_PASSED_0_uXjju+DEpkE=   OUTPUT FEATURE_TYPE Tester_8_PASSED_1_zKKElsne3wk=
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * TestFactory    FACTORY_NAME Tester_6    INPUT  FEATURE_TYPE Tester_8_PASSED_0_uXjju+DEpkE=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_RIGHT<closeparen>,Tester_6) ATTRIBUTE_HAS_VALUE "" ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_6_PASSED
-# -------------------------------------------------------------------------
-
-
-FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_7    INPUT  FEATURE_TYPE Tester_6_PASSED    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "TWP_CODE_LEFT" "TWP_CODE_LEFT" "" "REMOVE" }      ATTR_ACTION { "TWP_CODE_RIGHT" "TWP_CODE" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "" "Half_centerline<space>mileages" "<at>Evaluate<openparen><at>abs<openparen><at>Value<openparen>FROMMEASURE<closeparen>-<at>Value<openparen>TOMEASURE<closeparen><closeparen><solidus>2<closeparen>" "SET_TO" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_7_OUTPUT
-
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * TestFactory    FACTORY_NAME Tester_5    INPUT  FEATURE_TYPE Tester_8_PASSED_1_zKKElsne3wk=    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>TWP_CODE_LEFT<closeparen>,Tester_5) ATTRIBUTE_HAS_VALUE "" ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_5_PASSED
-# -------------------------------------------------------------------------
-
-
-FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_6    INPUT  FEATURE_TYPE Tester_5_PASSED    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "TWP_CODE_LEFT" "TWP_CODE" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "TWP_CODE_RIGHT" "TWP_CODE_RIGHT" "" "REMOVE" }      ATTR_ACTION { "" "Half_centerline<space>mileages" "<at>Evaluate<openparen><at>abs<openparen><at>Value<openparen>FROMMEASURE<closeparen>-<at>Value<openparen>TOMEASURE<closeparen><closeparen><solidus>2<closeparen>" "SET_TO" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_6_OUTPUT
-
-# -------------------------------------------------------------------------
-
-INCLUDE [    set macroLine "MACRO AttributeKeeper_3_549dd62e_84c1_4120_b811_7ef5476a31f10_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
-
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper_3    INPUT  FEATURE_TYPE AttributeManager_6_OUTPUT    INPUT  FEATURE_TYPE AttributeManager_7_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_3_OUTPUT        @KeepAttributes(fme_encoded,HALF_LANE_MILES,Half_centerline<space>mileages,TWP_CODE,fme_pcre_match,"^fme_$(AttributeKeeper_3_549dd62e_84c1_4120_b811_7ef5476a31f10_LIST_EXP)")
-
-# -------------------------------------------------------------------------
-
-DEFAULT_MACRO Aggregator_3_BREAK_ATTR
-INCLUDE [if {"No" == "Yes"} {puts {MACRO Aggregator_3_BREAK_ATTR BREAK_BEFORE_FIELD_CHANGE TWP_CODE} }]
-FACTORY_DEF {*} AggregateFactory    FACTORY_NAME Aggregator_3    INPUT  FEATURE_TYPE AttributeKeeper_3_OUTPUT    MODE ONE_LEVEL    GROUP_BY TWP_CODE    $(Aggregator_3_BREAK_ATTR)    REMOVE_GEOMETRY NO    ACCUMULATE_ATTRIBUTES One    LIST_ATTRS_TO_INCLUDE { <Unused> }    LIST_ATTRS_TO_INCLUDE_MODE <Unused>    SEPARATOR <comma>    SUM_FIELDS HALF_LANE_MILES "Half_centerline mileages"    PRODUCE_MULTIS YES    OUTPUT AGGREGATE FEATURE_TYPE Aggregator_3_AGGREGATE
-
-# -------------------------------------------------------------------------
-
-Tcl2 proc AttributeRounder_3_round {places} {    set attrs [split {HALF_LANE_MILES Half_centerline<space>mileages} { }];    foreach attr $attrs {       set attr [FME_DecodeText $attr];       set original [FME_GetAttribute $attr];       if {$original == {} || [FME_IsAttributeNull $attr]}       {          FME_LogMessage fme_warn 917357 {AttributeRounder_3} $attr;          continue;       };       set comment {"do not attempt rounding if not a number"};       if {[string is double $original] == 0} {continue};       if { [catch {                set multiplier [expr pow(10,$places)];                set result [expr "round($original * $multiplier) / $multiplier"];                set comment {"when rounding integers, chop trailing .0 from the value"};                if {$places == 0 || [string is wideinteger $original] == 1} {                   set result [regsub {[.]0*$} $result {}];                };             };] == 0 } {          FME_SetAttribute $attr $result;       } else {          FME_LogMessage fme_warn 917350 {AttributeRounder_3} $attr;       };   }; }
-FACTORY_DEF * TestFactory    FACTORY_NAME AttributeRounder_3    INPUT  FEATURE_TYPE Aggregator_3_AGGREGATE    TEST "3" TYPE INT ENCODED    OUTPUT FAILED FEATURE_TYPE AttributeRounder_3_<REJECTED>       fme_rejection_code "INVALID_PARAMETER_DECIMAL_PLACES"    OUTPUT PASSED FEATURE_TYPE __toOutput__
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRounder_3_AttributeRounder    INPUT FEATURE_TYPE __toOutput__    OUTPUT FEATURE_TYPE AttributeRounder_3_OUTPUT         @Tcl2("AttributeRounder_3_round 3")
-
-DEFAULT_MACRO _WB_BYPASS_TERMINATION No
-FACTORY_DEF * TeeFactory FACTORY_NAME AttributeRounder_3_<Rejected> INPUT FEATURE_TYPE AttributeRounder_3_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, AttributeRounder_3<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
-# -------------------------------------------------------------------------
-
-Tcl2 set AttributeSplitter_2_a6d2a7a5_e273_40eb_86e0_1203c952ed1c0_splitDelim [FME_DecodeText {-}];      if { [regexp {^([1-9][0-9]*s)+$} [set AttributeSplitter_2_a6d2a7a5_e273_40eb_86e0_1203c952ed1c0_splitDelim]] }      {         set AttributeSplitter_2_a6d2a7a5_e273_40eb_86e0_1203c952ed1c0_splitWidths [split [regsub -all {s$} {-} {}] s];         proc AttributeSplitter_2_doSplit {}         {            global AttributeSplitter_2_a6d2a7a5_e273_40eb_86e0_1203c952ed1c0_splitWidths;            set source [FME_GetAttribute [FME_DecodeText {TWP_CODE}]];            set attrNum 0;            set listName [FME_DecodeText {_list}];            set attrPos 0;            set keepEmptyParts [string equal {No} {No}];            foreach width [set AttributeSplitter_2_a6d2a7a5_e273_40eb_86e0_1203c952ed1c0_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               set part [string trim $bit];               if { $keepEmptyParts || $part != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $part;                  incr attrNum;               };               incr attrPos $width;            };         };      }      else      {         proc AttributeSplitter_2_doSplit {}         {            global AttributeSplitter_2_a6d2a7a5_e273_40eb_86e0_1203c952ed1c0_splitDelim;            set delim [set AttributeSplitter_2_a6d2a7a5_e273_40eb_86e0_1203c952ed1c0_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute [FME_DecodeText {TWP_CODE}]];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              lappend bits [string range $source $startIndex [expr $nextIndex-1]];              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            lappend bits [string range $source $startIndex end];            set listName [FME_DecodeText {_list}];            set attrNum 0;            foreach bit $bits            {               set trimmedPart [string trim $bit];               if { $keepEmptyParts || $trimmedPart != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $trimmedPart;                  incr attrNum;               };            }          }       }
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeSplitter_2    INPUT  FEATURE_TYPE AttributeRounder_3_OUTPUT    OUTPUT FEATURE_TYPE AttributeSplitter_2_OUTPUT         @Tcl2(AttributeSplitter_2_doSplit)
-
-# -------------------------------------------------------------------------
-
-
-FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeManager_8    INPUT  FEATURE_TYPE AttributeSplitter_2_OUTPUT    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "" "County" "<at>Value<openparen>_list<opencurly>0<closecurly><closeparen>" "SET_TO" }      ATTR_ACTION { "" "Jurisdiction" "Township" "SET_TO" }      ATTR_ACTION { "TWP_CODE" "TWP_CODE" "" "REMOVE" }      ATTR_ACTION { "" "Name" "<at>Value<openparen>_list<opencurly>1<closecurly><closeparen>" "SET_TO" }      ATTR_ACTION { "HALF_LANE_MILES" "LANE_MILES" "" "RENAME_SET_VALUE" }      ATTR_ACTION { "Half_centerline<space>mileages" "Centerline<space>mileages" "" "RENAME_SET_VALUE" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_8_OUTPUT
-
-# -------------------------------------------------------------------------
-
-INCLUDE [    set macroLine "MACRO AttributeRemover_LIST_EXP ";    foreach attr [split "_list<opencurly><closecurly>"] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRemover    INPUT  FEATURE_TYPE AttributeManager_8_OUTPUT    OUTPUT FEATURE_TYPE AttributeRemover_OUTPUT        @RemoveAttributes(fme_encoded,)        @RemoveAttributes(fme_pcre_match"$(AttributeRemover_LIST_EXP)")
-
-# -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_5    INPUT  FEATURE_TYPE AttributeRemover_OUTPUT    OUTPUT FEATURE_TYPE Junction_5_Output
-# -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_6    INPUT  FEATURE_TYPE Junction_5_Output    OUTPUT FEATURE_TYPE Junction_6_Output
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * SortFactory    FACTORY_NAME Sorter    INPUT  FEATURE_TYPE Junction_2_Output    INPUT  FEATURE_TYPE Junction_6_Output    INPUT  FEATURE_TYPE Junction_4_Output    INPUT  FEATURE_TYPE Junction_8_Output    SORT_BY County ALPHA ASCENDING Jurisdiction ALPHA ASCENDING Name ALPHA ASCENDING    OUTPUT SORTED FEATURE_TYPE Sorter_SORTED
-
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC Sorter_SORTED TO XLSXW __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Jurisdiction<closeparen> GEOMETRY    ROUTE FME_GENERIC Junction_10_Output TO XLSXW __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>ODOT-IR<closeparen> GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
+FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC Sorter_SORTED_0_3iJewJ+xcb8= TO XLSXW __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Jurisdiction<closeparen> GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYPE __nuke_me__
 
 # -------------------------------------------------------------------------
 XLSXW_1_DEF Jurisdiction   xlsx_drop_sheet              Yes   xlsx_trunc_sheet             Yes   xlsx_sheet_order             ""   xlsx_freeze_end_row          ""   xlsx_names_are_positions     No   xlsx_field_names_out         Yes   xlsx_start_col               ""   xlsx_start_row               ""   xlsx_offset_col              ""   xlsx_offset_row              ""   xlsx_raster_type             PNG   xlsx_table_writer_mode       Insert   xlsx_row_id_column           ""   xlsx_protect_sheet           NO   xlsx_protect_sheet_level     <Unused>   xlsx_protect_sheet_password  <Unused>   xlsx_protect_sheet_permissions <Unused>   County                       auto(20,version<semicolon>1<semicolon>number_format_string<semicolon><semicolon>font<semicolon><semicolon>font_color<semicolon><semicolon>background_color<semicolon><semicolon>pattern_color<semicolon><semicolon>pattern_style<semicolon><semicolon>text_alignment<semicolon>NO<semicolon>horizontal_alignment<semicolon><semicolon>vertical_alignment<semicolon><semicolon>indent<semicolon><semicolon>text_orientation<semicolon><semicolon>text_control<semicolon><semicolon>cell_protection<semicolon>NO<semicolon>hide_cells<semicolon><semicolon>lock_cells<semicolon>)   Jurisdiction                 auto(20,version<semicolon>1<semicolon>number_format_string<semicolon><semicolon>font<semicolon><semicolon>font_color<semicolon><semicolon>background_color<semicolon><semicolon>pattern_color<semicolon><semicolon>pattern_style<semicolon><semicolon>text_alignment<semicolon>NO<semicolon>horizontal_alignment<semicolon><semicolon>vertical_alignment<semicolon><semicolon>indent<semicolon><semicolon>text_orientation<semicolon><semicolon>text_control<semicolon><semicolon>cell_protection<semicolon>NO<semicolon>hide_cells<semicolon><semicolon>lock_cells<semicolon>)   Name                         auto(20,version<semicolon>1<semicolon>number_format_string<semicolon><semicolon>font<semicolon><semicolon>font_color<semicolon><semicolon>background_color<semicolon><semicolon>pattern_color<semicolon><semicolon>pattern_style<semicolon><semicolon>text_alignment<semicolon>NO<semicolon>horizontal_alignment<semicolon><semicolon>vertical_alignment<semicolon><semicolon>indent<semicolon><semicolon>text_orientation<semicolon><semicolon>text_control<semicolon><semicolon>cell_protection<semicolon>NO<semicolon>hide_cells<semicolon><semicolon>lock_cells<semicolon>)   LANE_MILES                   string(20,version<semicolon>1<semicolon>number_format_string<semicolon><semicolon>font<semicolon><semicolon>font_color<semicolon><semicolon>background_color<semicolon><semicolon>pattern_color<semicolon><semicolon>pattern_style<semicolon><semicolon>text_alignment<semicolon>NO<semicolon>horizontal_alignment<semicolon><semicolon>vertical_alignment<semicolon><semicolon>indent<semicolon><semicolon>text_orientation<semicolon><semicolon>text_control<semicolon><semicolon>cell_protection<semicolon>NO<semicolon>hide_cells<semicolon><semicolon>lock_cells<semicolon>)   "Centerline mileages"        auto(20,version<semicolon>1<semicolon>number_format_string<semicolon><semicolon>font<semicolon><semicolon>font_color<semicolon><semicolon>background_color<semicolon><semicolon>pattern_color<semicolon><semicolon>pattern_style<semicolon><semicolon>text_alignment<semicolon>NO<semicolon>horizontal_alignment<semicolon><semicolon>vertical_alignment<semicolon><semicolon>indent<semicolon><semicolon>text_orientation<semicolon><semicolon>text_control<semicolon><semicolon>cell_protection<semicolon>NO<semicolon>hide_cells<semicolon><semicolon>lock_cells<semicolon>)
-# -------------------------------------------------------------------------
-XLSXW_1_DEF ODOT-IR   xlsx_drop_sheet              Yes   xlsx_trunc_sheet             Yes   xlsx_sheet_order             ""   xlsx_freeze_end_row          ""   xlsx_names_are_positions     No   xlsx_field_names_out         Yes   xlsx_start_col               ""   xlsx_start_row               ""   xlsx_offset_col              ""   xlsx_offset_row              ""   xlsx_raster_type             PNG   xlsx_table_writer_mode       Insert   xlsx_row_id_column           ""   xlsx_protect_sheet           NO   xlsx_protect_sheet_level     <Unused>   xlsx_protect_sheet_password  <Unused>   xlsx_protect_sheet_permissions <Unused>   LANE_MILES.sum               auto(20,version<semicolon>1<semicolon>number_format_string<semicolon><semicolon>font<semicolon><semicolon>font_color<semicolon><semicolon>background_color<semicolon><semicolon>pattern_color<semicolon><semicolon>pattern_style<semicolon><semicolon>text_alignment<semicolon>NO<semicolon>horizontal_alignment<semicolon><semicolon>vertical_alignment<semicolon><semicolon>indent<semicolon><semicolon>text_orientation<semicolon><semicolon>text_control<semicolon><semicolon>cell_protection<semicolon>NO<semicolon>hide_cells<semicolon><semicolon>lock_cells<semicolon>)   "Centerline mileages.sum"    auto(20,version<semicolon>1<semicolon>number_format_string<semicolon><semicolon>font<semicolon><semicolon>font_color<semicolon><semicolon>background_color<semicolon><semicolon>pattern_color<semicolon><semicolon>pattern_style<semicolon><semicolon>text_alignment<semicolon>NO<semicolon>horizontal_alignment<semicolon><semicolon>vertical_alignment<semicolon><semicolon>indent<semicolon><semicolon>text_orientation<semicolon><semicolon>text_control<semicolon><semicolon>cell_protection<semicolon>NO<semicolon>hide_cells<semicolon><semicolon>lock_cells<semicolon>)
